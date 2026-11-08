@@ -1,0 +1,48 @@
+{
+  "hymn_id": 1,
+  "code": "TC_001",
+  "slug": "cui-xin-vua-thanh-ngu-lai",
+  "title": "Cúi Xin Vua Thánh Ngự Lai",
+  "category_top": "Thờ Phượng",
+  "category_sub": "Ngợi khen Đức Chúa Trời",
+  "composer": "Felice de Giardini, 1769",
+  "translator": "Lời dịch của Charles Wesley, 1757",
+  "meter_code": "B1L",
+  "has_chords": true,
+  "chords_used": [
+    "G",
+    "C",
+    "D7",
+    "Am",
+    "Bm",
+    "Em"
+  ],
+  "stanza_count": 1,
+  "stanzas": [
+    {
+      "label": "Câu 1",
+      "type": "verse",
+      "lines_clean": [
+        "1.Cúi xin Vua Thánh ngự lai, Hộ tôi cung chúc danh Ngài; Hát lên khen ngợi; Ngợi Cha sáng láng trên trời, Là danh chiến thắng muôn đời, Nguyện quang lâm trên chính tôi, Chúa thánh muôn đời."
+      ],
+      "lines_chordpro": [
+        "[G]1.Cúi xin Vua [C]Thánh [D7]ngự [G]lai, Hộ tôi cung [Am]chúc danh [D7]Ngài; [G]Hát lên khen [Bm]ngợi; [D7]Ngợi Cha sáng [G]láng trên trời, [D7]Là danh chiến [G]thắng muôn đời, [Em]Nguyện quang lâm [Bm]trên chính tôi, [C]Chúa thánh [D7]muôn [G]đời."
+      ]
+    }
+  ],
+  "has_mp3": true,
+  "mp3_url": "https://audio.httlvn.org/TC/thanh-ca/mp3/1.mp3",
+  "has_musicxml": true,
+  "musicxml_rel_path": "musicxml/1.xml",
+  "symbolic_sheet": {
+    "key_signature": "G",
+    "time_signature": "3/4",
+    "tempo_bpm": 104,
+    "measure_count": 16,
+    "abc_notation": "X:1\nT:Cúi Xin Vua Thánh Ngự Lai\nM:3/4\nL:1/8\nQ:1/4=104\nK:G\n\"G\"d2 B2 G2 | \"C\"A2 \"D7\"G2 F2 | \"G\"G6 | G2 A2 B2 | \"Am\"c d c2 B2 | \"D7\"A6 | \"G\"d2 B2 G2 | \"Bm\"D6 | \"D7\"A2 B2 c2 | \"G\"B3 A G2 | \"D7\"A2 B2 c2 | \"G\"B3 A G2 | \"Em\"G2 B2 d2 | \"Bm\"d3 e d2 | \"C\"c2 \"D7\"B2 A2 | \"G\"G6 |]\nw: 1.Cúi xin Vua Thánh ngự lai, Hộ tôi cung chúc danh Ngài; Hát lên khen ngợi; Ngợi Cha sáng láng trên trời, Là danh chiến thắng muôn đời, Nguyện quang lâm trên chính tôi, Chúa thánh muôn đời.\nw: 2.Cúi xin Đạo thể ngự lai, Nịt gươm chói sáng hiển oai, Đoái nghe tôi nài; Nguyện ban tứ thánh dân Ngài Dùng chân lý nuôi tâm hoài, Thần Nhân ôi, xin giáng đây, Ở chính tâm này.\nw: 3.Đấng Ủy lạo hỡi, ngự lai, Nguyện đem thánh chứng theo Ngài Chính phút vui này; Nguyện xin Thánh Linh năng tài, Quyền thiêng, sức thiêng ai tày, Đầy tâm tôi nay, Chúa ôi, Quản cai muôn đời.\nw: 4.Hát khen muôn thuở nào thôi, Hiệp tôn Chân Chúa Ba Ngôi, Chúa trên muôn loài! Nguyện trông hiển vinh nơi Ngài, Được xem dáng tôn nghiêm hoài, Thờ tôn yêu thương Chúa tôi Trải đến đời đời.\n",
+    "abc_rel_path": "hymns/abc/001.abc",
+    "midi_rel_path": "hymns/midi/001.mid",
+    "abc_size_bytes": 1216,
+    "midi_size_bytes": 1569
+  }
+}

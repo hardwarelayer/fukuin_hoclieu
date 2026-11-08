@@ -1,0 +1,85 @@
+{
+  "_comment": "Cấu hình trung tâm cho fukuin_hoclieu/crawl_factory. Mọi tham số rate-limit, retry và đường dẫn đều được quản lý tại đây.",
+  "project": "fukuin_hoclieu",
+  "version": "1.0.0",
+  "paths": {
+    "raw_dir": "raw",
+    "state_dir": "state",
+    "normalized_dir": "normalized",
+    "output_data_dir": "../data"
+  },
+  "default_headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,application/json;q=0.8,*/*;q=0.7",
+    "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7,ja;q=0.6"
+  },
+  "sources": {
+    "kinhthanh_httlvn": {
+      "enabled": true,
+      "base_url": "https://kinhthanh.httlvn.org",
+      "bible_version": "VI1934",
+      "cookies": {
+        "version_current": "VI1934"
+      },
+      "delay_seconds": 1.2,
+      "jitter_seconds": 0.3,
+      "timeout_seconds": 25,
+      "max_retries": 4,
+      "concurrency": 1,
+      "expected_signatures": ["bible-read"]
+    },
+    "tinlanh_com": {
+      "enabled": true,
+      "base_url": "https://www.tinlanh.com",
+      "getbible_vi_url": "https://api.getbible.net/v2/vietnamese.json",
+      "delay_seconds": 0.6,
+      "jitter_seconds": 0.2,
+      "timeout_seconds": 20,
+      "max_retries": 3,
+      "concurrency": 1,
+      "expected_signatures": ["class=\"bread\""]
+    },
+    "thanhca_httlvn": {
+      "enabled": true,
+      "base_url": "https://thanhca.httlvn.org",
+      "delay_seconds": 1.0,
+      "jitter_seconds": 0.3,
+      "timeout_seconds": 25,
+      "max_retries": 4,
+      "concurrency": 1
+    },
+    "vietchristian": {
+      "enabled": true,
+      "base_url": "https://vietchristian.com",
+      "delay_seconds": 2.5,
+      "jitter_seconds": 0.5,
+      "timeout_seconds": 25,
+      "max_retries": 3,
+      "concurrency": 1
+    },
+    "open_multilingual": {
+      "enabled": true,
+      "delay_seconds": 0.5,
+      "jitter_seconds": 0.2,
+      "timeout_seconds": 45,
+      "max_retries": 3,
+      "endpoints": {
+        "ja_kougo_bolls_full": "https://bolls.life/static/translations/JPKJV.json",
+        "ja_kougo_bolls_chapter_tpl": "https://bolls.life/get-text/JPKJV/{book_nr}/{chapter}/",
+        "ja_kougo_getbible_full": "https://api.getbible.net/v2/japkougo.json",
+        "ja_kougo_getbible_chapter_tpl": "https://api.getbible.net/v2/japkougo/{book_nr}/{chapter}.json",
+        "ja_bungo_getbible_full": "https://api.getbible.net/v2/japbungo.json",
+        "ja_bungo_getbible_chapter_tpl": "https://api.getbible.net/v2/japbungo/{book_nr}/{chapter}.json",
+        "en_web_getbible_full": "https://api.getbible.net/v2/web.json",
+        "en_web_usfm_zip": "https://ebible.org/Scriptures/engwebp_usfm.zip",
+        "en_kjv_usfm_zip": "https://ebible.org/Scriptures/eng-kjv2006_usfm.zip",
+        "orig_wlc_book_tpl": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/{wlc_osis}.xml",
+        "orig_gnt_book_tpl": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/{morphgnt_prefix}-morphgnt.txt",
+        "strongs_greek_xml": "https://raw.githubusercontent.com/morphgnt/strongs-dictionary-xml/master/strongsgreek.xml",
+        "sanbika_1954_wikipedia": "https://ja.wikipedia.org/w/api.php?action=query&titles=%E8%AE%83%E7%BE%8E%E6%AD%8C_(1954%E5%B9%B4%E7%89%88)&prop=revisions&rvprop=content&format=json",
+        "sanbika_kanichi_json": "https://raw.githubusercontent.com/lee-ship-jp/kanichi-sanbika/main/data/songs.json"
+      }
+    }
+  }
+}
+

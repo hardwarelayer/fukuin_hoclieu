@@ -1,0 +1,2269 @@
+{
+  "source": "kinhthanh_httlvn",
+  "version": "VI1934",
+  "book_nr": 19,
+  "usfm": "PSA",
+  "httlvn_code": "thi",
+  "book_name_vi": "Thi-thiên",
+  "chapter": 51,
+  "chapter_id": "PSA.51",
+  "audio_url": null,
+  "psalm_superscription": "Cho thầy nhạc chánh. Thơ Đa-vít làm, lúc đấng tiên tri Na-than đến cùng người, sau khi Đa-vít đã vào cùng Bát-Sê-ba",
+  "superscription_cross_refs": [
+    {
+      "raw": "2Sa 12:1-15",
+      "target_usfm": "2SA",
+      "target_chapter": 12,
+      "target_verses": "1-15"
+    }
+  ],
+  "verse_count": 19,
+  "verses": [
+    {
+      "verse_id": "PSA.51.1",
+      "verse": 1,
+      "text": "Đức Chúa Trời ôi! xin hãy thương xót tôi tùy lòng nhân từ của Chúa;\nXin hãy xóa các sự vi phạm tôi theo sự từ bi rất lớn của Chúa.",
+      "poetic_lines": [
+        "Đức Chúa Trời ôi! xin hãy thương xót tôi tùy lòng nhân từ của Chúa;",
+        "Xin hãy xóa các sự vi phạm tôi theo sự từ bi rất lớn của Chúa."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [
+        {
+          "type": "section_title",
+          "text": "Người có lòng ăn năn hối cải, cầu nguyện Chúa tha tội cho"
+        }
+      ],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "神よ、あなたのいつくしみによって、わたしをあわれみ、あなたの豊かなあわれみによって、わたしのもろもろのとがをぬぐい去ってください。",
+        "text_ruby_html": "<ruby>神<rt>かみ</rt></ruby>よ、あなたのいつくしみによって、わたしをあわれみ、あなたの<ruby>豊<rt>ゆた</rt></ruby>かなあわれみによって、わたしのもろもろのとがをぬぐい<ruby>去<rt>さ</rt></ruby>ってください。",
+        "ruby_tokens": [
+          {
+            "surface": "神",
+            "reading": "かみ"
+          },
+          {
+            "surface": "豊",
+            "reading": "ゆた"
+          },
+          {
+            "surface": "去",
+            "reading": "さ"
+          }
+        ]
+      },
+      "ja_bungo_text": "ああ神よねがはくはなんぢの仁慈によりて我をあはれみ なんぢの憐憫のおほきによりてわがもろもろの愆をけしたまへ",
+      "original": {
+        "verse_id": "PSA.51.3",
+        "wlc_osis_id": "Ps.51.3",
+        "verse": 3,
+        "text_hebrew": "חָנֵּ֣נִי אֱלֹהִ֣ים כְּחַסְדֶּ֑ךָ כְּרֹ֥ב רַ֝חֲמֶ֗יךָ מְחֵ֣ה פְשָׁעָֽי׃",
+        "tokens": [
+          {
+            "surface": "חָנֵּ֣נִי",
+            "surface_segmented": "חָנֵּ֣/נִי",
+            "strong": "H2603",
+            "prefixes": [],
+            "morph": "HVqv2ms/Sp1cs"
+          },
+          {
+            "surface": "אֱלֹהִ֣ים",
+            "surface_segmented": "אֱלֹהִ֣ים",
+            "strong": "H430",
+            "prefixes": [],
+            "morph": "HNcmpa"
+          },
+          {
+            "surface": "כְּחַסְדֶּ֑ךָ",
+            "surface_segmented": "כְּ/חַסְדֶּ֑/ךָ",
+            "strong": "H2617",
+            "prefixes": [
+              "k"
+            ],
+            "morph": "HR/Ncmsc/Sp2ms"
+          },
+          {
+            "surface": "כְּרֹ֥ב",
+            "surface_segmented": "כְּ/רֹ֥ב",
+            "strong": "H7230",
+            "prefixes": [
+              "k"
+            ],
+            "morph": "HR/Ncbsc"
+          },
+          {
+            "surface": "רַ֝חֲמֶ֗יךָ",
+            "surface_segmented": "רַ֝חֲמֶ֗י/ךָ",
+            "strong": "H7356",
+            "prefixes": [],
+            "morph": "HNcmpc/Sp2ms"
+          },
+          {
+            "surface": "מְחֵ֣ה",
+            "surface_segmented": "מְחֵ֣ה",
+            "strong": "H4229",
+            "prefixes": [],
+            "morph": "HVqv2ms"
+          },
+          {
+            "surface": "פְשָׁעָֽי",
+            "surface_segmented": "פְשָׁעָֽ/י",
+            "strong": "H6588",
+            "prefixes": [],
+            "morph": "HNcmpc/Sp1cs"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.2",
+      "verse": 2,
+      "text": "Xin hãy rửa tôi cho sạch hết trọi gian ác,\nVà làm tôi được thanh khiết về tội lỗi tôi.",
+      "poetic_lines": [
+        "Xin hãy rửa tôi cho sạch hết trọi gian ác,",
+        "Và làm tôi được thanh khiết về tội lỗi tôi."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "わたしの不義をことごとく洗い去り、わたしの罪からわたしを清めてください。",
+        "text_ruby_html": "わたしの<ruby>不義<rt>ふぎ</rt></ruby>をことごとく<ruby>洗<rt>あら</rt></ruby>い<ruby>去<rt>さ</rt></ruby>り、わたしの<ruby>罪<rt>つみ</rt></ruby>からわたしを<ruby>清<rt>きよ</rt></ruby>めてください。",
+        "ruby_tokens": [
+          {
+            "surface": "不義",
+            "reading": "ふぎ"
+          },
+          {
+            "surface": "洗",
+            "reading": "あら"
+          },
+          {
+            "surface": "去",
+            "reading": "さ"
+          },
+          {
+            "surface": "罪",
+            "reading": "つみ"
+          },
+          {
+            "surface": "清",
+            "reading": "きよ"
+          }
+        ]
+      },
+      "ja_bungo_text": "わが不義をことごとくあらひさり我をわが罪よりきよめたまへ",
+      "original": {
+        "verse_id": "PSA.51.4",
+        "wlc_osis_id": "Ps.51.4",
+        "verse": 4,
+        "text_hebrew": "הרבה הֶ֭רֶב כַּבְּסֵ֣נִי מֵעֲוֺנִ֑י וּֽמֵחַטָּאתִ֥י טַהֲרֵֽנִי׃",
+        "tokens": [
+          {
+            "surface": "הרבה",
+            "surface_segmented": "הרבה",
+            "strong": "H7235",
+            "prefixes": [],
+            "morph": "HVha"
+          },
+          {
+            "surface": "הֶ֭רֶב",
+            "surface_segmented": "הֶ֭רֶב",
+            "strong": "H7235",
+            "prefixes": [],
+            "morph": "HVhv2ms"
+          },
+          {
+            "surface": "כַּבְּסֵ֣נִי",
+            "surface_segmented": "כַּבְּסֵ֣/נִי",
+            "strong": "H3526",
+            "prefixes": [],
+            "morph": "HVpv2ms/Sp1cs"
+          },
+          {
+            "surface": "מֵעֲוֺנִ֑י",
+            "surface_segmented": "מֵ/עֲוֺנִ֑/י",
+            "strong": "H5771",
+            "prefixes": [
+              "m"
+            ],
+            "morph": "HR/Ncbsc/Sp1cs"
+          },
+          {
+            "surface": "וּֽמֵחַטָּאתִ֥י",
+            "surface_segmented": "וּֽ/מֵ/חַטָּאתִ֥/י",
+            "strong": "H2403",
+            "prefixes": [
+              "c",
+              "m"
+            ],
+            "morph": "HC/R/Ncfsc/Sp1cs"
+          },
+          {
+            "surface": "טַהֲרֵֽנִי",
+            "surface_segmented": "טַהֲרֵֽ/נִי",
+            "strong": "H2891",
+            "prefixes": [],
+            "morph": "HVpv2ms/Sp1cs"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.3",
+      "verse": 3,
+      "text": "Vì tôi nhận biết các sự vi phạm tôi,\nTội lỗi tôi hằng ở trước mặt tôi.",
+      "poetic_lines": [
+        "Vì tôi nhận biết các sự vi phạm tôi,",
+        "Tội lỗi tôi hằng ở trước mặt tôi."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "わたしは自分のとがを知っています。わたしの罪はいつもわたしの前にあります。",
+        "text_ruby_html": "わたしは<ruby>自分<rt>じぶん</rt></ruby>のとがを<ruby>知<rt>し</rt></ruby>っています。わたしの<ruby>罪<rt>つみ</rt></ruby>はいつもわたしの<ruby>前<rt>まえ</rt></ruby>にあります。",
+        "ruby_tokens": [
+          {
+            "surface": "自分",
+            "reading": "じぶん"
+          },
+          {
+            "surface": "知",
+            "reading": "し"
+          },
+          {
+            "surface": "罪",
+            "reading": "つみ"
+          },
+          {
+            "surface": "前",
+            "reading": "まえ"
+          }
+        ]
+      },
+      "ja_bungo_text": "われはわが愆をしる わが罪はつねにわが前にあり",
+      "original": {
+        "verse_id": "PSA.51.5",
+        "wlc_osis_id": "Ps.51.5",
+        "verse": 5,
+        "text_hebrew": "כִּֽי־פְ֭שָׁעַי אֲנִ֣י אֵדָ֑ע וְחַטָּאתִ֖י נֶגְדִּ֣י תָמִֽיד׃",
+        "tokens": [
+          {
+            "surface": "כִּֽי",
+            "surface_segmented": "כִּֽי",
+            "strong": "H3588",
+            "prefixes": [],
+            "morph": "HC"
+          },
+          {
+            "surface": "פְ֭שָׁעַי",
+            "surface_segmented": "פְ֭שָׁעַ/י",
+            "strong": "H6588",
+            "prefixes": [],
+            "morph": "HNcmpc/Sp1cs"
+          },
+          {
+            "surface": "אֲנִ֣י",
+            "surface_segmented": "אֲנִ֣י",
+            "strong": "H589",
+            "prefixes": [],
+            "morph": "HPp1cs"
+          },
+          {
+            "surface": "אֵדָ֑ע",
+            "surface_segmented": "אֵדָ֑ע",
+            "strong": "H3045",
+            "prefixes": [],
+            "morph": "HVqi1cs"
+          },
+          {
+            "surface": "וְחַטָּאתִ֖י",
+            "surface_segmented": "וְ/חַטָּאתִ֖/י",
+            "strong": "H2403",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/Ncfsc/Sp1cs"
+          },
+          {
+            "surface": "נֶגְדִּ֣י",
+            "surface_segmented": "נֶגְדִּ֣/י",
+            "strong": "H5048",
+            "prefixes": [],
+            "morph": "HR/Sp1cs"
+          },
+          {
+            "surface": "תָמִֽיד",
+            "surface_segmented": "תָמִֽיד",
+            "strong": "H8548",
+            "prefixes": [],
+            "morph": "HNcmsa"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.4",
+      "verse": 4,
+      "text": "Tôi đã phạm tội cùng Chúa, chỉ cùng một mình Chúa thôi,\nVà làm điều ác trước mặt Chúa;\nHầu cho Chúa được xưng công bình khi Chúa phán,\nVà được thanh sạch khi Chúa xét đoán.",
+      "poetic_lines": [
+        "Tôi đã phạm tội cùng Chúa, chỉ cùng một mình Chúa thôi,",
+        "Và làm điều ác trước mặt Chúa;",
+        "Hầu cho Chúa được xưng công bình khi Chúa phán,",
+        "Và được thanh sạch khi Chúa xét đoán."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [
+        {
+          "raw": "Ro 3:4",
+          "target_usfm": "ROM",
+          "target_chapter": 3,
+          "target_verses": "4"
+        }
+      ],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "わたしはあなたにむかい、ただあなたに罪を犯し、あなたの前に悪い事を行いました。それゆえ、あなたが宣告をお与えになるときは正しく、あなたが人をさばかれるときは誤りがありません。",
+        "text_ruby_html": "わたしはあなたにむかい、ただあなたに<ruby>罪<rt>つみ</rt></ruby>を<ruby>犯<rt>おか</rt></ruby>し、あなたの<ruby>前<rt>まえ</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>い<ruby>事<rt>こと</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>いました。それゆえ、あなたが<ruby>宣告<rt>せんこく</rt></ruby>をお<ruby>与<rt>あた</rt></ruby>えになるときは<ruby>正<rt>ただ</rt></ruby>しく、あなたが<ruby>人<rt>ひと</rt></ruby>をさばかれるときは<ruby>誤<rt>あやま</rt></ruby>りがありません。",
+        "ruby_tokens": [
+          {
+            "surface": "罪",
+            "reading": "つみ"
+          },
+          {
+            "surface": "犯",
+            "reading": "おか"
+          },
+          {
+            "surface": "前",
+            "reading": "まえ"
+          },
+          {
+            "surface": "悪",
+            "reading": "わる"
+          },
+          {
+            "surface": "事",
+            "reading": "こと"
+          },
+          {
+            "surface": "行",
+            "reading": "おこな"
+          },
+          {
+            "surface": "宣告",
+            "reading": "せんこく"
+          },
+          {
+            "surface": "与",
+            "reading": "あた"
+          },
+          {
+            "surface": "正",
+            "reading": "ただ"
+          },
+          {
+            "surface": "人",
+            "reading": "ひと"
+          },
+          {
+            "surface": "誤",
+            "reading": "あやま"
+          }
+        ]
+      },
+      "ja_bungo_text": "我はなんぢにむかひて獨なんぢに罪ををかし聖前にあしきことを行へり されば汝ものいふときは義とせられ なんぢ鞫くときは咎めなしとせられ給ふ",
+      "original": {
+        "verse_id": "PSA.51.6",
+        "wlc_osis_id": "Ps.51.6",
+        "verse": 6,
+        "text_hebrew": "לְךָ֤ לְבַדְּךָ֨ חָטָאתִי֮ וְהָרַ֥ע בְּעֵינֶ֗יךָ עָ֫שִׂ֥יתִי לְ֭מַעַן תִּצְדַּ֥ק בְּדָבְרֶ֗ךָ תִּזְכֶּ֥ה בְשָׁפְטֶֽךָ׃",
+        "tokens": [
+          {
+            "surface": "לְךָ֤",
+            "surface_segmented": "לְ/ךָ֤",
+            "strong": null,
+            "prefixes": [],
+            "morph": "HR/Sp2ms"
+          },
+          {
+            "surface": "לְבַדְּךָ֨",
+            "surface_segmented": "לְ/בַדְּ/ךָ֨",
+            "strong": "H905",
+            "prefixes": [
+              "l"
+            ],
+            "morph": "HR/Ncmsc/Sp2ms"
+          },
+          {
+            "surface": "חָטָאתִי֮",
+            "surface_segmented": "חָטָאתִי֮",
+            "strong": "H2398",
+            "prefixes": [],
+            "morph": "HVqp1cs"
+          },
+          {
+            "surface": "וְהָרַ֥ע",
+            "surface_segmented": "וְ/הָ/רַ֥ע",
+            "strong": "H7451",
+            "prefixes": [
+              "c",
+              "d"
+            ],
+            "morph": "HC/Td/Aamsa"
+          },
+          {
+            "surface": "בְּעֵינֶ֗יךָ",
+            "surface_segmented": "בְּ/עֵינֶ֗י/ךָ",
+            "strong": "H5869",
+            "prefixes": [
+              "b"
+            ],
+            "morph": "HR/Ncbdc/Sp2ms"
+          },
+          {
+            "surface": "עָ֫שִׂ֥יתִי",
+            "surface_segmented": "עָ֫שִׂ֥יתִי",
+            "strong": "H6213",
+            "prefixes": [],
+            "morph": "HVqp1cs"
+          },
+          {
+            "surface": "לְ֭מַעַן",
+            "surface_segmented": "לְ֭מַעַן",
+            "strong": "H4616",
+            "prefixes": [],
+            "morph": "HR"
+          },
+          {
+            "surface": "תִּצְדַּ֥ק",
+            "surface_segmented": "תִּצְדַּ֥ק",
+            "strong": "H6663",
+            "prefixes": [],
+            "morph": "HVqi2ms"
+          },
+          {
+            "surface": "בְּדָבְרֶ֗ךָ",
+            "surface_segmented": "בְּ/דָבְרֶ֗/ךָ",
+            "strong": "H1696",
+            "prefixes": [
+              "b"
+            ],
+            "morph": "HR/Vqc/Sp2ms"
+          },
+          {
+            "surface": "תִּזְכֶּ֥ה",
+            "surface_segmented": "תִּזְכֶּ֥ה",
+            "strong": "H2135",
+            "prefixes": [],
+            "morph": "HVqi2ms"
+          },
+          {
+            "surface": "בְשָׁפְטֶֽךָ",
+            "surface_segmented": "בְ/שָׁפְטֶֽ/ךָ",
+            "strong": "H8199",
+            "prefixes": [
+              "b"
+            ],
+            "morph": "HR/Vqc/Sp2ms"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.5",
+      "verse": 5,
+      "text": "Kìa, tôi sanh ra trong sự gian ác,\nMẹ tôi đã hoài thai tôi trong tội lỗi.",
+      "poetic_lines": [
+        "Kìa, tôi sanh ra trong sự gian ác,",
+        "Mẹ tôi đã hoài thai tôi trong tội lỗi."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "見よ、わたしは不義のなかに生れました。わたしの母は罪のうちにわたしをみごもりました。",
+        "text_ruby_html": "<ruby>見<rt>み</rt></ruby>よ、わたしは<ruby>不義<rt>ふぎ</rt></ruby>のなかに<ruby>生<rt>うま</rt></ruby>れました。わたしの<ruby>母<rt>はは</rt></ruby>は<ruby>罪<rt>つみ</rt></ruby>のうちにわたしをみごもりました。",
+        "ruby_tokens": [
+          {
+            "surface": "見",
+            "reading": "み"
+          },
+          {
+            "surface": "不義",
+            "reading": "ふぎ"
+          },
+          {
+            "surface": "生",
+            "reading": "うま"
+          },
+          {
+            "surface": "母",
+            "reading": "はは"
+          },
+          {
+            "surface": "罪",
+            "reading": "つみ"
+          }
+        ]
+      },
+      "ja_bungo_text": "視よわれ邪曲のなかにうまれ罪ありてわが母われをはらみたりき",
+      "original": {
+        "verse_id": "PSA.51.7",
+        "wlc_osis_id": "Ps.51.7",
+        "verse": 7,
+        "text_hebrew": "הֵן־בְּעָו֥וֹן חוֹלָ֑לְתִּי וּ֝בְחֵ֗טְא יֶֽחֱמַ֥תְנִי אִמִּֽי׃",
+        "tokens": [
+          {
+            "surface": "הֵן",
+            "surface_segmented": "הֵן",
+            "strong": "H2005",
+            "prefixes": [],
+            "morph": "HTm"
+          },
+          {
+            "surface": "בְּעָו֥וֹן",
+            "surface_segmented": "בְּ/עָו֥וֹן",
+            "strong": "H5771",
+            "prefixes": [
+              "b"
+            ],
+            "morph": "HR/Ncbsa"
+          },
+          {
+            "surface": "חוֹלָ֑לְתִּי",
+            "surface_segmented": "חוֹלָ֑לְתִּי",
+            "strong": "H2342",
+            "prefixes": [],
+            "morph": "HVOp1cs"
+          },
+          {
+            "surface": "וּ֝בְחֵ֗טְא",
+            "surface_segmented": "וּ֝/בְ/חֵ֗טְא",
+            "strong": "H2399",
+            "prefixes": [
+              "c",
+              "b"
+            ],
+            "morph": "HC/R/Ncmsa"
+          },
+          {
+            "surface": "יֶֽחֱמַ֥תְנִי",
+            "surface_segmented": "יֶֽחֱמַ֥תְ/נִי",
+            "strong": "H3179",
+            "prefixes": [],
+            "morph": "HVpp3fs/Sp1cs"
+          },
+          {
+            "surface": "אִמִּֽי",
+            "surface_segmented": "אִמִּֽ/י",
+            "strong": "H517",
+            "prefixes": [],
+            "morph": "HNcfsc/Sp1cs"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.6",
+      "verse": 6,
+      "text": "Nầy, Chúa muốn sự chân thật nơi bề trong;\nChúa sẽ làm cho tôi được biết sự khôn ngoan trong nơi bí mật của lòng tôi.",
+      "poetic_lines": [
+        "Nầy, Chúa muốn sự chân thật nơi bề trong;",
+        "Chúa sẽ làm cho tôi được biết sự khôn ngoan trong nơi bí mật của lòng tôi."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "見よ、あなたは真実を心のうちに求められます。それゆえ、わたしの隠れた心に知恵を教えてください。",
+        "text_ruby_html": "<ruby>見<rt>み</rt></ruby>よ、あなたは<ruby>真実<rt>しんじつ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>のうちに<ruby>求<rt>もと</rt></ruby>められます。それゆえ、わたしの<ruby>隠<rt>かく</rt></ruby>れた<ruby>心<rt>こころ</rt></ruby>に<ruby>知恵<rt>ちえ</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+        "ruby_tokens": [
+          {
+            "surface": "見",
+            "reading": "み"
+          },
+          {
+            "surface": "真実",
+            "reading": "しんじつ"
+          },
+          {
+            "surface": "心",
+            "reading": "こころ"
+          },
+          {
+            "surface": "求",
+            "reading": "もと"
+          },
+          {
+            "surface": "隠",
+            "reading": "かく"
+          },
+          {
+            "surface": "心",
+            "reading": "こころ"
+          },
+          {
+            "surface": "知恵",
+            "reading": "ちえ"
+          },
+          {
+            "surface": "教",
+            "reading": "おし"
+          }
+        ]
+      },
+      "ja_bungo_text": "なんぢ眞實をこころの衷にまでのぞみ わが隠れたるところに智慧をしらしめ給はん",
+      "original": {
+        "verse_id": "PSA.51.8",
+        "wlc_osis_id": "Ps.51.8",
+        "verse": 8,
+        "text_hebrew": "הֵן־אֱ֭מֶת חָפַ֣צְתָּ בַטֻּח֑וֹת וּ֝בְסָתֻ֗ם חָכְמָ֥ה תוֹדִיעֵֽנִי׃",
+        "tokens": [
+          {
+            "surface": "הֵן",
+            "surface_segmented": "הֵן",
+            "strong": "H2005",
+            "prefixes": [],
+            "morph": "HTm"
+          },
+          {
+            "surface": "אֱ֭מֶת",
+            "surface_segmented": "אֱ֭מֶת",
+            "strong": "H571",
+            "prefixes": [],
+            "morph": "HNcfsa"
+          },
+          {
+            "surface": "חָפַ֣צְתָּ",
+            "surface_segmented": "חָפַ֣צְתָּ",
+            "strong": "H2654",
+            "prefixes": [],
+            "morph": "HVqp2ms"
+          },
+          {
+            "surface": "בַטֻּח֑וֹת",
+            "surface_segmented": "בַ/טֻּח֑וֹת",
+            "strong": "H2910",
+            "prefixes": [
+              "b"
+            ],
+            "morph": "HRd/Ncfpa"
+          },
+          {
+            "surface": "וּ֝בְסָתֻ֗ם",
+            "surface_segmented": "וּ֝/בְ/סָתֻ֗ם",
+            "strong": "H5640",
+            "prefixes": [
+              "c",
+              "b"
+            ],
+            "morph": "HC/R/Vqsmsa"
+          },
+          {
+            "surface": "חָכְמָ֥ה",
+            "surface_segmented": "חָכְמָ֥ה",
+            "strong": "H2451",
+            "prefixes": [],
+            "morph": "HNcfsa"
+          },
+          {
+            "surface": "תוֹדִיעֵֽנִי",
+            "surface_segmented": "תוֹדִיעֵֽ/נִי",
+            "strong": "H3045",
+            "prefixes": [],
+            "morph": "HVhi2ms/Sp1cs"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.7",
+      "verse": 7,
+      "text": "Xin hãy lấy chùm kinh giới tẩy sạch tội lỗi tôi, thì tôi sẽ được tinh sạch;\nCầu Chúa hãy rửa tôi, thì tôi sẽ nên trắng hơn tuyết.",
+      "poetic_lines": [
+        "Xin hãy lấy chùm kinh giới tẩy sạch tội lỗi tôi, thì tôi sẽ được tinh sạch;",
+        "Cầu Chúa hãy rửa tôi, thì tôi sẽ nên trắng hơn tuyết."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "ヒソプをもって、わたしを清めてください、わたしは清くなるでしょう。わたしを洗ってください、わたしは雪よりも白くなるでしょう。",
+        "text_ruby_html": "ヒソプをもって、わたしを<ruby>清<rt>きよ</rt></ruby>めてください、わたしは<ruby>清<rt>きよ</rt></ruby>くなるでしょう。わたしを<ruby>洗<rt>あら</rt></ruby>ってください、わたしは<ruby>雪<rt>ゆき</rt></ruby>よりも<ruby>白<rt>しろ</rt></ruby>くなるでしょう。",
+        "ruby_tokens": [
+          {
+            "surface": "清",
+            "reading": "きよ"
+          },
+          {
+            "surface": "清",
+            "reading": "きよ"
+          },
+          {
+            "surface": "洗",
+            "reading": "あら"
+          },
+          {
+            "surface": "雪",
+            "reading": "ゆき"
+          },
+          {
+            "surface": "白",
+            "reading": "しろ"
+          }
+        ]
+      },
+      "ja_bungo_text": "なんぢヒソブをもて我をきよめたまへ さらばわれ淨まらん 我をあらひたまへ さらばわれ雪よりも白からん",
+      "original": {
+        "verse_id": "PSA.51.9",
+        "wlc_osis_id": "Ps.51.9",
+        "verse": 9,
+        "text_hebrew": "תְּחַטְּאֵ֣נִי בְאֵז֣וֹב וְאֶטְהָ֑ר תְּ֝כַבְּסֵ֗נִי וּמִשֶּׁ֥לֶג אַלְבִּֽין׃",
+        "tokens": [
+          {
+            "surface": "תְּחַטְּאֵ֣נִי",
+            "surface_segmented": "תְּחַטְּאֵ֣/נִי",
+            "strong": "H2398",
+            "prefixes": [],
+            "morph": "HVpi2ms/Sp1cs"
+          },
+          {
+            "surface": "בְאֵז֣וֹב",
+            "surface_segmented": "בְ/אֵז֣וֹב",
+            "strong": "H231",
+            "prefixes": [
+              "b"
+            ],
+            "morph": "HR/Ncmsa"
+          },
+          {
+            "surface": "וְאֶטְהָ֑ר",
+            "surface_segmented": "וְ/אֶטְהָ֑ר",
+            "strong": "H2891",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/Vqi1cs"
+          },
+          {
+            "surface": "תְּ֝כַבְּסֵ֗נִי",
+            "surface_segmented": "תְּ֝כַבְּסֵ֗/נִי",
+            "strong": "H3526",
+            "prefixes": [],
+            "morph": "HVpi2ms/Sp1cs"
+          },
+          {
+            "surface": "וּמִשֶּׁ֥לֶג",
+            "surface_segmented": "וּ/מִ/שֶּׁ֥לֶג",
+            "strong": "H7950",
+            "prefixes": [
+              "c",
+              "m"
+            ],
+            "morph": "HC/R/Ncmsa"
+          },
+          {
+            "surface": "אַלְבִּֽין",
+            "surface_segmented": "אַלְבִּֽין",
+            "strong": "H3835",
+            "prefixes": [],
+            "morph": "HVhi1cs"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.8",
+      "verse": 8,
+      "text": "Hãy cho tôi nghe sự vui vẻ mừng rỡ,\nĐể các xương cốt mà Chúa đã bẻ gãy được khoái lạc.",
+      "poetic_lines": [
+        "Hãy cho tôi nghe sự vui vẻ mừng rỡ,",
+        "Để các xương cốt mà Chúa đã bẻ gãy được khoái lạc."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "わたしに喜びと楽しみとを満たし、あなたが砕いた骨を喜ばせてください。",
+        "text_ruby_html": "わたしに<ruby>喜<rt>よろこ</rt></ruby>びと<ruby>楽<rt>たの</rt></ruby>しみとを<ruby>満<rt>み</rt></ruby>たし、あなたが<ruby>砕<rt>くだ</rt></ruby>いた<ruby>骨<rt>ほね</rt></ruby>を<ruby>喜<rt>よろこ</rt></ruby>ばせてください。",
+        "ruby_tokens": [
+          {
+            "surface": "喜",
+            "reading": "よろこ"
+          },
+          {
+            "surface": "楽",
+            "reading": "たの"
+          },
+          {
+            "surface": "満",
+            "reading": "み"
+          },
+          {
+            "surface": "砕",
+            "reading": "くだ"
+          },
+          {
+            "surface": "骨",
+            "reading": "ほね"
+          },
+          {
+            "surface": "喜",
+            "reading": "よろこ"
+          }
+        ]
+      },
+      "ja_bungo_text": "なんぢ我によろこびと快樂とをきかせ なんぢが碎きし骨をよろこばせたまへ",
+      "original": {
+        "verse_id": "PSA.51.10",
+        "wlc_osis_id": "Ps.51.10",
+        "verse": 10,
+        "text_hebrew": "תַּ֭שְׁמִיעֵנִי שָׂשׂ֣וֹן וְשִׂמְחָ֑ה תָּ֝גֵ֗לְנָה עֲצָמ֥וֹת דִּכִּֽיתָ׃",
+        "tokens": [
+          {
+            "surface": "תַּ֭שְׁמִיעֵנִי",
+            "surface_segmented": "תַּ֭שְׁמִיעֵ/נִי",
+            "strong": "H8085",
+            "prefixes": [],
+            "morph": "HVhi2ms/Sp1cs"
+          },
+          {
+            "surface": "שָׂשׂ֣וֹן",
+            "surface_segmented": "שָׂשׂ֣וֹן",
+            "strong": "H8342",
+            "prefixes": [],
+            "morph": "HNcmsa"
+          },
+          {
+            "surface": "וְשִׂמְחָ֑ה",
+            "surface_segmented": "וְ/שִׂמְחָ֑ה",
+            "strong": "H8057",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/Ncfsa"
+          },
+          {
+            "surface": "תָּ֝גֵ֗לְנָה",
+            "surface_segmented": "תָּ֝גֵ֗לְנָה",
+            "strong": "H1523",
+            "prefixes": [],
+            "morph": "HVqi3fp"
+          },
+          {
+            "surface": "עֲצָמ֥וֹת",
+            "surface_segmented": "עֲצָמ֥וֹת",
+            "strong": "H6106",
+            "prefixes": [],
+            "morph": "HNcfpa"
+          },
+          {
+            "surface": "דִּכִּֽיתָ",
+            "surface_segmented": "דִּכִּֽיתָ",
+            "strong": "H1794",
+            "prefixes": [],
+            "morph": "HVpp2ms"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.9",
+      "verse": 9,
+      "text": "Xin Chúa ngảnh mặt khỏi các tội lỗi tôi,\nVà xóa hết thảy sự gian ác tôi,",
+      "poetic_lines": [
+        "Xin Chúa ngảnh mặt khỏi các tội lỗi tôi,",
+        "Và xóa hết thảy sự gian ác tôi,"
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "み顔をわたしの罪から隠し、わたしの不義をことごとくぬぐい去ってください。",
+        "text_ruby_html": "み<ruby>顔<rt>かお</rt></ruby>をわたしの<ruby>罪<rt>つみ</rt></ruby>から<ruby>隠<rt>かく</rt></ruby>し、わたしの<ruby>不義<rt>ふぎ</rt></ruby>をことごとくぬぐい<ruby>去<rt>さ</rt></ruby>ってください。",
+        "ruby_tokens": [
+          {
+            "surface": "顔",
+            "reading": "かお"
+          },
+          {
+            "surface": "罪",
+            "reading": "つみ"
+          },
+          {
+            "surface": "隠",
+            "reading": "かく"
+          },
+          {
+            "surface": "不義",
+            "reading": "ふぎ"
+          },
+          {
+            "surface": "去",
+            "reading": "さ"
+          }
+        ]
+      },
+      "ja_bungo_text": "ねがはくは聖顔をわがすべての罪よりそむけ わがすべての不義をけしたまへ",
+      "original": {
+        "verse_id": "PSA.51.11",
+        "wlc_osis_id": "Ps.51.11",
+        "verse": 11,
+        "text_hebrew": "הַסְתֵּ֣ר פָּ֭נֶיךָ מֵחֲטָאָ֑י וְֽכָל־עֲוֺ֖נֹתַ֣י מְחֵֽה׃",
+        "tokens": [
+          {
+            "surface": "הַסְתֵּ֣ר",
+            "surface_segmented": "הַסְתֵּ֣ר",
+            "strong": "H5641",
+            "prefixes": [],
+            "morph": "HVhv2ms"
+          },
+          {
+            "surface": "פָּ֭נֶיךָ",
+            "surface_segmented": "פָּ֭נֶי/ךָ",
+            "strong": "H6440",
+            "prefixes": [],
+            "morph": "HNcbpc/Sp2ms"
+          },
+          {
+            "surface": "מֵחֲטָאָ֑י",
+            "surface_segmented": "מֵ/חֲטָאָ֑/י",
+            "strong": "H2399",
+            "prefixes": [
+              "m"
+            ],
+            "morph": "HR/Ncmpc/Sp1cs"
+          },
+          {
+            "surface": "וְֽכָל",
+            "surface_segmented": "וְֽ/כָל",
+            "strong": "H3605",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/Ncmsc"
+          },
+          {
+            "surface": "עֲוֺ֖נֹתַ֣י",
+            "surface_segmented": "עֲוֺ֖נֹתַ֣/י",
+            "strong": "H5771",
+            "prefixes": [],
+            "morph": "HNcbpc/Sp1cs"
+          },
+          {
+            "surface": "מְחֵֽה",
+            "surface_segmented": "מְחֵֽה",
+            "strong": "H4229",
+            "prefixes": [],
+            "morph": "HVqv2ms"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.10",
+      "verse": 10,
+      "text": "Đức Chúa Trời ôi! xin hãy dựng nên trong tôi một lòng trong sạch,\nVà làm cho mới lại trong tôi một thần linh ngay thẳng.",
+      "poetic_lines": [
+        "Đức Chúa Trời ôi! xin hãy dựng nên trong tôi một lòng trong sạch,",
+        "Và làm cho mới lại trong tôi một thần linh ngay thẳng."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "神よ、わたしのために清い心をつくり、わたしのうちに新しい、正しい霊を与えてください。",
+        "text_ruby_html": "<ruby>神<rt>かみ</rt></ruby>よ、わたしのために<ruby>清<rt>きよ</rt></ruby>い<ruby>心<rt>こころ</rt></ruby>をつくり、わたしのうちに<ruby>新<rt>あたら</rt></ruby>しい、<ruby>正<rt>ただ</rt></ruby>しい<ruby>霊<rt>れい</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えてください。",
+        "ruby_tokens": [
+          {
+            "surface": "神",
+            "reading": "かみ"
+          },
+          {
+            "surface": "清",
+            "reading": "きよ"
+          },
+          {
+            "surface": "心",
+            "reading": "こころ"
+          },
+          {
+            "surface": "新",
+            "reading": "あたら"
+          },
+          {
+            "surface": "正",
+            "reading": "ただ"
+          },
+          {
+            "surface": "霊",
+            "reading": "れい"
+          },
+          {
+            "surface": "与",
+            "reading": "あた"
+          }
+        ]
+      },
+      "ja_bungo_text": "ああ神よわがために清心をつくり わが衷になほき霊をあらたにおこしたまへ",
+      "original": {
+        "verse_id": "PSA.51.12",
+        "wlc_osis_id": "Ps.51.12",
+        "verse": 12,
+        "text_hebrew": "לֵ֣ב טָ֭הוֹר בְּרָא־לִ֣י אֱלֹהִ֑ים וְר֥וּחַ נָ֝כ֗וֹן חַדֵּ֥שׁ בְּקִרְבִּֽי׃",
+        "tokens": [
+          {
+            "surface": "לֵ֣ב",
+            "surface_segmented": "לֵ֣ב",
+            "strong": "H3820",
+            "prefixes": [],
+            "morph": "HNcmsa"
+          },
+          {
+            "surface": "טָ֭הוֹר",
+            "surface_segmented": "טָ֭הוֹר",
+            "strong": "H2889",
+            "prefixes": [],
+            "morph": "HAamsa"
+          },
+          {
+            "surface": "בְּרָא",
+            "surface_segmented": "בְּרָא",
+            "strong": "H1254",
+            "prefixes": [],
+            "morph": "HVqv2ms"
+          },
+          {
+            "surface": "לִ֣י",
+            "surface_segmented": "לִ֣/י",
+            "strong": null,
+            "prefixes": [],
+            "morph": "HR/Sp1cs"
+          },
+          {
+            "surface": "אֱלֹהִ֑ים",
+            "surface_segmented": "אֱלֹהִ֑ים",
+            "strong": "H430",
+            "prefixes": [],
+            "morph": "HNcmpa"
+          },
+          {
+            "surface": "וְר֥וּחַ",
+            "surface_segmented": "וְ/ר֥וּחַ",
+            "strong": "H7307",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/Ncbsa"
+          },
+          {
+            "surface": "נָ֝כ֗וֹן",
+            "surface_segmented": "נָ֝כ֗וֹן",
+            "strong": "H3559",
+            "prefixes": [],
+            "morph": "HVNrmsa"
+          },
+          {
+            "surface": "חַדֵּ֥שׁ",
+            "surface_segmented": "חַדֵּ֥שׁ",
+            "strong": "H2318",
+            "prefixes": [],
+            "morph": "HVpv2ms"
+          },
+          {
+            "surface": "בְּקִרְבִּֽי",
+            "surface_segmented": "בְּ/קִרְבִּֽ/י",
+            "strong": "H7130",
+            "prefixes": [
+              "b"
+            ],
+            "morph": "HR/Ncmsc/Sp1cs"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.11",
+      "verse": 11,
+      "text": "Xin chớ từ bỏ tôi khỏi trước mặt Chúa,\nCũng đừng cất khỏi tôi Thánh Linh Chúa.",
+      "poetic_lines": [
+        "Xin chớ từ bỏ tôi khỏi trước mặt Chúa,",
+        "Cũng đừng cất khỏi tôi Thánh Linh Chúa."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "わたしをみ前から捨てないでください。あなたの聖なる霊をわたしから取らないでください。",
+        "text_ruby_html": "わたしをみ<ruby>前<rt>まえ</rt></ruby>から<ruby>捨<rt>す</rt></ruby>てないでください。あなたの<ruby>聖<rt>せい</rt></ruby>なる<ruby>霊<rt>れい</rt></ruby>をわたしから<ruby>取<rt>と</rt></ruby>らないでください。",
+        "ruby_tokens": [
+          {
+            "surface": "前",
+            "reading": "まえ"
+          },
+          {
+            "surface": "捨",
+            "reading": "す"
+          },
+          {
+            "surface": "聖",
+            "reading": "せい"
+          },
+          {
+            "surface": "霊",
+            "reading": "れい"
+          },
+          {
+            "surface": "取",
+            "reading": "と"
+          }
+        ]
+      },
+      "ja_bungo_text": "われを聖前より棄たまふなかれ 汝のきよき霊をわれより取りたまふなかれ",
+      "original": {
+        "verse_id": "PSA.51.13",
+        "wlc_osis_id": "Ps.51.13",
+        "verse": 13,
+        "text_hebrew": "אַל־תַּשְׁלִיכֵ֥נִי מִלְּפָנֶ֑יךָ וְר֥וּחַ קָ֝דְשְׁךָ֗ אַל־תִּקַּ֥ח מִמֶּֽנִּי׃",
+        "tokens": [
+          {
+            "surface": "אַל",
+            "surface_segmented": "אַל",
+            "strong": "H408",
+            "prefixes": [],
+            "morph": "HTn"
+          },
+          {
+            "surface": "תַּשְׁלִיכֵ֥נִי",
+            "surface_segmented": "תַּשְׁלִיכֵ֥/נִי",
+            "strong": "H7993",
+            "prefixes": [],
+            "morph": "HVhj2ms/Sp1cs"
+          },
+          {
+            "surface": "מִלְּפָנֶ֑יךָ",
+            "surface_segmented": "מִ/לְּ/פָנֶ֑י/ךָ",
+            "strong": "H6440",
+            "prefixes": [
+              "m",
+              "l"
+            ],
+            "morph": "HR/R/Ncbpc/Sp2ms"
+          },
+          {
+            "surface": "וְר֥וּחַ",
+            "surface_segmented": "וְ/ר֥וּחַ",
+            "strong": "H7307",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/Ncbsc"
+          },
+          {
+            "surface": "קָ֝דְשְׁךָ֗",
+            "surface_segmented": "קָ֝דְשְׁ/ךָ֗",
+            "strong": "H6944",
+            "prefixes": [],
+            "morph": "HNcmsc/Sp2ms"
+          },
+          {
+            "surface": "אַל",
+            "surface_segmented": "אַל",
+            "strong": "H408",
+            "prefixes": [],
+            "morph": "HTn"
+          },
+          {
+            "surface": "תִּקַּ֥ח",
+            "surface_segmented": "תִּקַּ֥ח",
+            "strong": "H3947",
+            "prefixes": [],
+            "morph": "HVqj2ms"
+          },
+          {
+            "surface": "מִמֶּֽנִּי",
+            "surface_segmented": "מִמֶּֽ/נִּי",
+            "strong": "H4480",
+            "prefixes": [],
+            "morph": "HR/Sp1cs"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.12",
+      "verse": 12,
+      "text": "Xin hãy ban lại cho tôi sự vui vẻ về sự cứu rỗi của Chúa,\nDùng thần linh sẵn lòng mà nâng đỡ tôi.",
+      "poetic_lines": [
+        "Xin hãy ban lại cho tôi sự vui vẻ về sự cứu rỗi của Chúa,",
+        "Dùng thần linh sẵn lòng mà nâng đỡ tôi."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "あなたの救の喜びをわたしに返し、自由の霊をもって、わたしをささえてください。",
+        "text_ruby_html": "あなたの<ruby>救<rt>すくい</rt></ruby>の<ruby>喜<rt>よろこ</rt></ruby>びをわたしに<ruby>返<rt>かえ</rt></ruby>し、<ruby>自由<rt>じゆう</rt></ruby>の<ruby>霊<rt>れい</rt></ruby>をもって、わたしをささえてください。",
+        "ruby_tokens": [
+          {
+            "surface": "救",
+            "reading": "すくい"
+          },
+          {
+            "surface": "喜",
+            "reading": "よろこ"
+          },
+          {
+            "surface": "返",
+            "reading": "かえ"
+          },
+          {
+            "surface": "自由",
+            "reading": "じゆう"
+          },
+          {
+            "surface": "霊",
+            "reading": "れい"
+          }
+        ]
+      },
+      "ja_bungo_text": "なんぢの救のよろこびを我にかへし自由の霊をあたへて我をたもちたまへ",
+      "original": {
+        "verse_id": "PSA.51.14",
+        "wlc_osis_id": "Ps.51.14",
+        "verse": 14,
+        "text_hebrew": "הָשִׁ֣יבָה לִּ֭י שְׂשׂ֣וֹן יִשְׁעֶ֑ךָ וְר֖וּחַ נְדִיבָ֣ה תִסְמְכֵֽנִי׃",
+        "tokens": [
+          {
+            "surface": "הָשִׁ֣יבָה",
+            "surface_segmented": "הָשִׁ֣יבָ/ה",
+            "strong": "H7725",
+            "prefixes": [],
+            "morph": "HVhv2ms/Sh"
+          },
+          {
+            "surface": "לִּ֭י",
+            "surface_segmented": "לִּ֭/י",
+            "strong": null,
+            "prefixes": [],
+            "morph": "HR/Sp1cs"
+          },
+          {
+            "surface": "שְׂשׂ֣וֹן",
+            "surface_segmented": "שְׂשׂ֣וֹן",
+            "strong": "H8342",
+            "prefixes": [],
+            "morph": "HNcmsc"
+          },
+          {
+            "surface": "יִשְׁעֶ֑ךָ",
+            "surface_segmented": "יִשְׁעֶ֑/ךָ",
+            "strong": "H3468",
+            "prefixes": [],
+            "morph": "HNcmsc/Sp2ms"
+          },
+          {
+            "surface": "וְר֖וּחַ",
+            "surface_segmented": "וְ/ר֖וּחַ",
+            "strong": "H7307",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/Ncbsa"
+          },
+          {
+            "surface": "נְדִיבָ֣ה",
+            "surface_segmented": "נְדִיבָ֣ה",
+            "strong": "H5081",
+            "prefixes": [],
+            "morph": "HAafsa"
+          },
+          {
+            "surface": "תִסְמְכֵֽנִי",
+            "surface_segmented": "תִסְמְכֵֽ/נִי",
+            "strong": "H5564",
+            "prefixes": [],
+            "morph": "HVqi2ms/Sp1cs"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.13",
+      "verse": 13,
+      "text": "Bấy giờ tôi sẽ dạy đường lối Chúa cho kẻ vi phạm,\nVà kẻ có tội sẽ trở về cùng Chúa.",
+      "poetic_lines": [
+        "Bấy giờ tôi sẽ dạy đường lối Chúa cho kẻ vi phạm,",
+        "Và kẻ có tội sẽ trở về cùng Chúa."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "そうすればわたしは、とがを犯した者にあなたの道を教え、罪びとはあなたに帰ってくるでしょう。",
+        "text_ruby_html": "そうすればわたしは、とがを<ruby>犯<rt>おか</rt></ruby>した<ruby>者<rt>もの</rt></ruby>にあなたの<ruby>道<rt>みち</rt></ruby>を<ruby>教<rt>おし</rt></ruby>え、<ruby>罪<rt>つみ</rt></ruby>びとはあなたに<ruby>帰<rt>かえ</rt></ruby>ってくるでしょう。",
+        "ruby_tokens": [
+          {
+            "surface": "犯",
+            "reading": "おか"
+          },
+          {
+            "surface": "者",
+            "reading": "もの"
+          },
+          {
+            "surface": "道",
+            "reading": "みち"
+          },
+          {
+            "surface": "教",
+            "reading": "おし"
+          },
+          {
+            "surface": "罪",
+            "reading": "つみ"
+          },
+          {
+            "surface": "帰",
+            "reading": "かえ"
+          }
+        ]
+      },
+      "ja_bungo_text": "さらばわれ愆ををかせる者になんぢの途ををしへん罪人はなんぢに歸りきたるべし",
+      "original": {
+        "verse_id": "PSA.51.15",
+        "wlc_osis_id": "Ps.51.15",
+        "verse": 15,
+        "text_hebrew": "אֲלַמְּדָ֣ה פֹשְׁעִ֣ים דְּרָכֶ֑יךָ וְ֝חַטָּאִ֗ים אֵלֶ֥יךָ יָשֽׁוּבוּ׃",
+        "tokens": [
+          {
+            "surface": "אֲלַמְּדָ֣ה",
+            "surface_segmented": "אֲלַמְּדָ֣ה",
+            "strong": "H3925",
+            "prefixes": [],
+            "morph": "HVph1cs"
+          },
+          {
+            "surface": "פֹשְׁעִ֣ים",
+            "surface_segmented": "פֹשְׁעִ֣ים",
+            "strong": "H6586",
+            "prefixes": [],
+            "morph": "HVqrmpa"
+          },
+          {
+            "surface": "דְּרָכֶ֑יךָ",
+            "surface_segmented": "דְּרָכֶ֑י/ךָ",
+            "strong": "H1870",
+            "prefixes": [],
+            "morph": "HNcbpc/Sp2ms"
+          },
+          {
+            "surface": "וְ֝חַטָּאִ֗ים",
+            "surface_segmented": "וְ֝/חַטָּאִ֗ים",
+            "strong": "H2400",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/Aampa"
+          },
+          {
+            "surface": "אֵלֶ֥יךָ",
+            "surface_segmented": "אֵלֶ֥י/ךָ",
+            "strong": "H413",
+            "prefixes": [],
+            "morph": "HR/Sp2ms"
+          },
+          {
+            "surface": "יָשֽׁוּבוּ",
+            "surface_segmented": "יָשֽׁוּבוּ",
+            "strong": "H7725",
+            "prefixes": [],
+            "morph": "HVqi3mp"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.14",
+      "verse": 14,
+      "text": "Hỡi Đức Chúa Trời, là Đức Chúa Trời về sự cứu rỗi tôi,\nXin giải tôi khỏi tội làm đổ huyết,\nThì lưỡi tôi sẽ hát ngợi khen sự công bình của Chúa.",
+      "poetic_lines": [
+        "Hỡi Đức Chúa Trời, là Đức Chúa Trời về sự cứu rỗi tôi,",
+        "Xin giải tôi khỏi tội làm đổ huyết,",
+        "Thì lưỡi tôi sẽ hát ngợi khen sự công bình của Chúa."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "神よ、わが救の神よ、血を流した罪からわたしを助け出してください。わたしの舌は声高らかにあなたの義を歌うでしょう。",
+        "text_ruby_html": "<ruby>神<rt>かみ</rt></ruby>よ、わが<ruby>救<rt>すくい</rt></ruby>の<ruby>神<rt>かみ</rt></ruby>よ、<ruby>血<rt>ち</rt></ruby>を<ruby>流<rt>なが</rt></ruby>した<ruby>罪<rt>つみ</rt></ruby>からわたしを<ruby>助<rt>たす</rt></ruby>け<ruby>出<rt>だ</rt></ruby>してください。わたしの<ruby>舌<rt>した</rt></ruby>は<ruby>声<rt>こえ</rt></ruby><ruby>高<rt>たか</rt></ruby>らかにあなたの<ruby>義<rt>ぎ</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>うでしょう。",
+        "ruby_tokens": [
+          {
+            "surface": "神",
+            "reading": "かみ"
+          },
+          {
+            "surface": "救",
+            "reading": "すくい"
+          },
+          {
+            "surface": "神",
+            "reading": "かみ"
+          },
+          {
+            "surface": "血",
+            "reading": "ち"
+          },
+          {
+            "surface": "流",
+            "reading": "なが"
+          },
+          {
+            "surface": "罪",
+            "reading": "つみ"
+          },
+          {
+            "surface": "助",
+            "reading": "たす"
+          },
+          {
+            "surface": "出",
+            "reading": "だ"
+          },
+          {
+            "surface": "舌",
+            "reading": "した"
+          },
+          {
+            "surface": "声",
+            "reading": "こえ"
+          },
+          {
+            "surface": "高",
+            "reading": "たか"
+          },
+          {
+            "surface": "義",
+            "reading": "ぎ"
+          },
+          {
+            "surface": "歌",
+            "reading": "うた"
+          }
+        ]
+      },
+      "ja_bungo_text": "神よわが救のかみよ血をながしし罪より我をたすけいだしたまへ わが舌は聲たからかになんぢの義をうたはん",
+      "original": {
+        "verse_id": "PSA.51.16",
+        "wlc_osis_id": "Ps.51.16",
+        "verse": 16,
+        "text_hebrew": "הַצִּ֘ילֵ֤נִי מִדָּמִ֨ים אֱֽלֹהִ֗ים אֱלֹהֵ֥י תְּשׁוּעָתִ֑י תְּרַנֵּ֥ן לְ֝שׁוֹנִ֗י צִדְקָתֶֽךָ׃",
+        "tokens": [
+          {
+            "surface": "הַצִּ֘ילֵ֤נִי",
+            "surface_segmented": "הַצִּ֘ילֵ֤/נִי",
+            "strong": "H5337",
+            "prefixes": [],
+            "morph": "HVhv2ms/Sp1cs"
+          },
+          {
+            "surface": "מִדָּמִ֨ים",
+            "surface_segmented": "מִ/דָּמִ֨ים",
+            "strong": "H1818",
+            "prefixes": [
+              "m"
+            ],
+            "morph": "HR/Ncmpa"
+          },
+          {
+            "surface": "אֱֽלֹהִ֗ים",
+            "surface_segmented": "אֱֽלֹהִ֗ים",
+            "strong": "H430",
+            "prefixes": [],
+            "morph": "HNcmpa"
+          },
+          {
+            "surface": "אֱלֹהֵ֥י",
+            "surface_segmented": "אֱלֹהֵ֥י",
+            "strong": "H430",
+            "prefixes": [],
+            "morph": "HNcmpc"
+          },
+          {
+            "surface": "תְּשׁוּעָתִ֑י",
+            "surface_segmented": "תְּשׁוּעָתִ֑/י",
+            "strong": "H8668",
+            "prefixes": [],
+            "morph": "HNcfsc/Sp1cs"
+          },
+          {
+            "surface": "תְּרַנֵּ֥ן",
+            "surface_segmented": "תְּרַנֵּ֥ן",
+            "strong": "H7442",
+            "prefixes": [],
+            "morph": "HVpi3fs"
+          },
+          {
+            "surface": "לְ֝שׁוֹנִ֗י",
+            "surface_segmented": "לְ֝שׁוֹנִ֗/י",
+            "strong": "H3956",
+            "prefixes": [],
+            "morph": "HNcbsc/Sp1cs"
+          },
+          {
+            "surface": "צִדְקָתֶֽךָ",
+            "surface_segmented": "צִדְקָתֶֽ/ךָ",
+            "strong": "H6666",
+            "prefixes": [],
+            "morph": "HNcfsc/Sp2ms"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.15",
+      "verse": 15,
+      "text": "Chúa ơi, xin mở môi tôi,\nRồi miệng tôi sẽ truyền ra sự ngợi khen Chúa.",
+      "poetic_lines": [
+        "Chúa ơi, xin mở môi tôi,",
+        "Rồi miệng tôi sẽ truyền ra sự ngợi khen Chúa."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "主よ、わたしのくちびるを開いてください。わたしの口はあなたの誉をあらわすでしょう。",
+        "text_ruby_html": "<ruby>主<rt>しゅ</rt></ruby>よ、わたしのくちびるを<ruby>開<rt>ひら</rt></ruby>いてください。わたしの<ruby>口<rt>くち</rt></ruby>はあなたの<ruby>誉<rt>ほまれ</rt></ruby>をあらわすでしょう。",
+        "ruby_tokens": [
+          {
+            "surface": "主",
+            "reading": "しゅ"
+          },
+          {
+            "surface": "開",
+            "reading": "ひら"
+          },
+          {
+            "surface": "口",
+            "reading": "くち"
+          },
+          {
+            "surface": "誉",
+            "reading": "ほまれ"
+          }
+        ]
+      },
+      "ja_bungo_text": "主よわが口唇をひらきたまへ 然ばわが口なんぢの頌美をあらはさん",
+      "original": {
+        "verse_id": "PSA.51.17",
+        "wlc_osis_id": "Ps.51.17",
+        "verse": 17,
+        "text_hebrew": "אֲ֭דֹנָי שְׂפָתַ֣י תִּפְתָּ֑ח וּ֝פִ֗י יַגִּ֥יד תְּהִלָּתֶֽךָ׃",
+        "tokens": [
+          {
+            "surface": "אֲ֭דֹנָי",
+            "surface_segmented": "אֲ֭דֹנָ/י",
+            "strong": "H136",
+            "prefixes": [],
+            "morph": "HNcmpc/Sp1cs"
+          },
+          {
+            "surface": "שְׂפָתַ֣י",
+            "surface_segmented": "שְׂפָתַ֣/י",
+            "strong": "H8193",
+            "prefixes": [],
+            "morph": "HNcfdc/Sp1cs"
+          },
+          {
+            "surface": "תִּפְתָּ֑ח",
+            "surface_segmented": "תִּפְתָּ֑ח",
+            "strong": "H6605",
+            "prefixes": [],
+            "morph": "HVqi2ms"
+          },
+          {
+            "surface": "וּ֝פִ֗י",
+            "surface_segmented": "וּ֝/פִ֗/י",
+            "strong": "H6310",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/Ncmsc/Sp1cs"
+          },
+          {
+            "surface": "יַגִּ֥יד",
+            "surface_segmented": "יַגִּ֥יד",
+            "strong": "H5046",
+            "prefixes": [],
+            "morph": "HVhi3ms"
+          },
+          {
+            "surface": "תְּהִלָּתֶֽךָ",
+            "surface_segmented": "תְּהִלָּתֶֽ/ךָ",
+            "strong": "H8416",
+            "prefixes": [],
+            "morph": "HNcfsc/Sp2ms"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.16",
+      "verse": 16,
+      "text": "Vì Chúa không ưa thích của lễ, bằng vậy, tôi chắc đã dâng;\nCủa lễ thiêu cũng không đẹp lòng Chúa:",
+      "poetic_lines": [
+        "Vì Chúa không ưa thích của lễ, bằng vậy, tôi chắc đã dâng;",
+        "Của lễ thiêu cũng không đẹp lòng Chúa:"
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "あなたはいけにえを好まれません。たといわたしが燔祭をささげてもあなたは喜ばれないでしょう。",
+        "text_ruby_html": "あなたはいけにえを<ruby>好<rt>この</rt></ruby>まれません。たといわたしが<ruby>燔祭<rt>はんさい</rt></ruby>をささげてもあなたは<ruby>喜<rt>よろこ</rt></ruby>ばれないでしょう。",
+        "ruby_tokens": [
+          {
+            "surface": "好",
+            "reading": "この"
+          },
+          {
+            "surface": "燔祭",
+            "reading": "はんさい"
+          },
+          {
+            "surface": "喜",
+            "reading": "よろこ"
+          }
+        ]
+      },
+      "ja_bungo_text": "なんぢは祭物をこのみたまはず もし然らずば我これをささげん なんぢまた燔祭をも悦びたまはず",
+      "original": {
+        "verse_id": "PSA.51.18",
+        "wlc_osis_id": "Ps.51.18",
+        "verse": 18,
+        "text_hebrew": "כִּ֤י לֹא־תַחְפֹּ֣ץ זֶ֣בַח וְאֶתֵּ֑נָה ע֝וֹלָ֗ה לֹ֣א תִרְצֶֽה׃",
+        "tokens": [
+          {
+            "surface": "כִּ֤י",
+            "surface_segmented": "כִּ֤י",
+            "strong": "H3588",
+            "prefixes": [],
+            "morph": "HC"
+          },
+          {
+            "surface": "לֹא",
+            "surface_segmented": "לֹא",
+            "strong": "H3808",
+            "prefixes": [],
+            "morph": "HTn"
+          },
+          {
+            "surface": "תַחְפֹּ֣ץ",
+            "surface_segmented": "תַחְפֹּ֣ץ",
+            "strong": "H2654",
+            "prefixes": [],
+            "morph": "HVqi2ms"
+          },
+          {
+            "surface": "זֶ֣בַח",
+            "surface_segmented": "זֶ֣בַח",
+            "strong": "H2077",
+            "prefixes": [],
+            "morph": "HNcmsa"
+          },
+          {
+            "surface": "וְאֶתֵּ֑נָה",
+            "surface_segmented": "וְ/אֶתֵּ֑נָה",
+            "strong": "H5414",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/Vqh1cs"
+          },
+          {
+            "surface": "ע֝וֹלָ֗ה",
+            "surface_segmented": "ע֝וֹלָ֗ה",
+            "strong": "H5930",
+            "prefixes": [],
+            "morph": "HNcfsa"
+          },
+          {
+            "surface": "לֹ֣א",
+            "surface_segmented": "לֹ֣א",
+            "strong": "H3808",
+            "prefixes": [],
+            "morph": "HTn"
+          },
+          {
+            "surface": "תִרְצֶֽה",
+            "surface_segmented": "תִרְצֶֽה",
+            "strong": "H7521",
+            "prefixes": [],
+            "morph": "HVqi2ms"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.17",
+      "verse": 17,
+      "text": "Của lễ đẹp lòng Đức Chúa Trời, ấy là tâm thần đau thương:\nĐức Chúa Trời ôi! lòng đau thương thống hối Chúa không khinh dể đâu.",
+      "poetic_lines": [
+        "Của lễ đẹp lòng Đức Chúa Trời, ấy là tâm thần đau thương:",
+        "Đức Chúa Trời ôi! lòng đau thương thống hối Chúa không khinh dể đâu."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": true,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "神の受けられるいけにえは砕けた魂です。神よ、あなたは砕けた悔いた心をかろしめられません。",
+        "text_ruby_html": "<ruby>神<rt>かみ</rt></ruby>の<ruby>受<rt>う</rt></ruby>けられるいけにえは<ruby>砕<rt>くだ</rt></ruby>けた<ruby>魂<rt>たましい</rt></ruby>です。<ruby>神<rt>かみ</rt></ruby>よ、あなたは<ruby>砕<rt>くだ</rt></ruby>けた<ruby>悔<rt>く</rt></ruby>いた<ruby>心<rt>こころ</rt></ruby>をかろしめられません。",
+        "ruby_tokens": [
+          {
+            "surface": "神",
+            "reading": "かみ"
+          },
+          {
+            "surface": "受",
+            "reading": "う"
+          },
+          {
+            "surface": "砕",
+            "reading": "くだ"
+          },
+          {
+            "surface": "魂",
+            "reading": "たましい"
+          },
+          {
+            "surface": "神",
+            "reading": "かみ"
+          },
+          {
+            "surface": "砕",
+            "reading": "くだ"
+          },
+          {
+            "surface": "悔",
+            "reading": "く"
+          },
+          {
+            "surface": "心",
+            "reading": "こころ"
+          }
+        ]
+      },
+      "ja_bungo_text": "神のもとめたまふ祭物はくだけたる霊魂なり 神よなんぢは碎けたる悔しこころを藐しめたまふまじ",
+      "original": {
+        "verse_id": "PSA.51.19",
+        "wlc_osis_id": "Ps.51.19",
+        "verse": 19,
+        "text_hebrew": "זִֽבְחֵ֣י אֱלֹהִים֮ ר֪וּחַ נִשְׁבָּ֫רָ֥ה לֵב־נִשְׁבָּ֥ר וְנִדְכֶּ֑ה אֱ֝לֹהִ֗ים לֹ֣א תִבְזֶֽה׃",
+        "tokens": [
+          {
+            "surface": "זִֽבְחֵ֣י",
+            "surface_segmented": "זִֽבְחֵ֣י",
+            "strong": "H2077",
+            "prefixes": [],
+            "morph": "HNcmpc"
+          },
+          {
+            "surface": "אֱלֹהִים֮",
+            "surface_segmented": "אֱלֹהִים֮",
+            "strong": "H430",
+            "prefixes": [],
+            "morph": "HNcmpa"
+          },
+          {
+            "surface": "ר֪וּחַ",
+            "surface_segmented": "ר֪וּחַ",
+            "strong": "H7307",
+            "prefixes": [],
+            "morph": "HNcbsc"
+          },
+          {
+            "surface": "נִשְׁבָּ֫רָ֥ה",
+            "surface_segmented": "נִשְׁבָּ֫רָ֥ה",
+            "strong": "H7665",
+            "prefixes": [],
+            "morph": "HVNrfsa"
+          },
+          {
+            "surface": "לֵב",
+            "surface_segmented": "לֵב",
+            "strong": "H3820",
+            "prefixes": [],
+            "morph": "HNcmsa"
+          },
+          {
+            "surface": "נִשְׁבָּ֥ר",
+            "surface_segmented": "נִשְׁבָּ֥ר",
+            "strong": "H7665",
+            "prefixes": [],
+            "morph": "HVNrmsa"
+          },
+          {
+            "surface": "וְנִדְכֶּ֑ה",
+            "surface_segmented": "וְ/נִדְכֶּ֑ה",
+            "strong": "H1794",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/VNrmsa"
+          },
+          {
+            "surface": "אֱ֝לֹהִ֗ים",
+            "surface_segmented": "אֱ֝לֹהִ֗ים",
+            "strong": "H430",
+            "prefixes": [],
+            "morph": "HNcmpa"
+          },
+          {
+            "surface": "לֹ֣א",
+            "surface_segmented": "לֹ֣א",
+            "strong": "H3808",
+            "prefixes": [],
+            "morph": "HTn"
+          },
+          {
+            "surface": "תִבְזֶֽה",
+            "surface_segmented": "תִבְזֶֽה",
+            "strong": "H959",
+            "prefixes": [],
+            "morph": "HVqi2ms"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.18",
+      "verse": 18,
+      "text": "Cầu xin Chúa hãy làm lành cho Si-ôn tùy ý tốt Ngài;\nHãy xây cất các vách tường của Giê-ru-sa-lem.",
+      "poetic_lines": [
+        "Cầu xin Chúa hãy làm lành cho Si-ôn tùy ý tốt Ngài;",
+        "Hãy xây cất các vách tường của Giê-ru-sa-lem."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "あなたのみこころにしたがってシオンに恵みを施し、エルサレムの城壁を築きなおしてください。",
+        "text_ruby_html": "あなたのみこころにしたがってシオンに<ruby>恵<rt>めぐ</rt></ruby>みを<ruby>施<rt>ほどこ</rt></ruby>し、エルサレムの<ruby>城壁<rt>じょうへき</rt></ruby>を<ruby>築<rt>きず</rt></ruby>きなおしてください。",
+        "ruby_tokens": [
+          {
+            "surface": "恵",
+            "reading": "めぐ"
+          },
+          {
+            "surface": "施",
+            "reading": "ほどこ"
+          },
+          {
+            "surface": "城壁",
+            "reading": "じょうへき"
+          },
+          {
+            "surface": "築",
+            "reading": "きず"
+          }
+        ]
+      },
+      "ja_bungo_text": "ねがはくは聖意にしたがひてシオンにさいはひし ヱルサレムの石垣をきづきたまへ",
+      "original": {
+        "verse_id": "PSA.51.20",
+        "wlc_osis_id": "Ps.51.20",
+        "verse": 20,
+        "text_hebrew": "הֵיטִ֣יבָה בִ֭רְצוֹנְךָ אֶת־צִיּ֑וֹן תִּ֝בְנֶ֗ה חוֹמ֥וֹת יְרוּשָׁלִָֽם׃",
+        "tokens": [
+          {
+            "surface": "הֵיטִ֣יבָה",
+            "surface_segmented": "הֵיטִ֣יבָ/ה",
+            "strong": "H3190",
+            "prefixes": [],
+            "morph": "HVhv2ms/Sh"
+          },
+          {
+            "surface": "בִ֭רְצוֹנְךָ",
+            "surface_segmented": "בִ֭/רְצוֹנְ/ךָ",
+            "strong": "H7522",
+            "prefixes": [
+              "b"
+            ],
+            "morph": "HR/Ncmsc/Sp2ms"
+          },
+          {
+            "surface": "אֶת",
+            "surface_segmented": "אֶת",
+            "strong": "H853",
+            "prefixes": [],
+            "morph": "HTo"
+          },
+          {
+            "surface": "צִיּ֑וֹן",
+            "surface_segmented": "צִיּ֑וֹן",
+            "strong": "H6726",
+            "prefixes": [],
+            "morph": "HNp"
+          },
+          {
+            "surface": "תִּ֝בְנֶ֗ה",
+            "surface_segmented": "תִּ֝בְנֶ֗ה",
+            "strong": "H1129",
+            "prefixes": [],
+            "morph": "HVqi2ms"
+          },
+          {
+            "surface": "חוֹמ֥וֹת",
+            "surface_segmented": "חוֹמ֥וֹת",
+            "strong": "H2346",
+            "prefixes": [],
+            "morph": "HNcfpc"
+          },
+          {
+            "surface": "יְרוּשָׁלִָֽם",
+            "surface_segmented": "יְרוּשָׁלִָֽם",
+            "strong": "H3389",
+            "prefixes": [],
+            "morph": "HNp"
+          }
+        ]
+      }
+    },
+    {
+      "verse_id": "PSA.51.19",
+      "verse": 19,
+      "text": "Bấy giờ Chúa sẽ ưa thích các của lễ công bình,\nCủa lễ thiêu, và các con sinh dâng trọn;\nBấy giờ người ta sẽ dâng bò đực trên bàn thờ của Chúa.",
+      "poetic_lines": [
+        "Bấy giờ Chúa sẽ ưa thích các của lễ công bình,",
+        "Của lễ thiêu, và các con sinh dâng trọn;",
+        "Bấy giờ người ta sẽ dâng bò đực trên bàn thờ của Chúa."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": true,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "ja_kougo": {
+        "text_plain": "その時あなたは義のいけにえと燔祭と、全き燔祭とを喜ばれるでしょう。その時あなたの祭壇に雄牛がささげられるでしょう。",
+        "text_ruby_html": "その<ruby>時<rt>とき</rt></ruby>あなたは<ruby>義<rt>ぎ</rt></ruby>のいけにえと<ruby>燔祭<rt>はんさい</rt></ruby>と、<ruby>全<rt>まった</rt></ruby>き<ruby>燔祭<rt>はんさい</rt></ruby>とを<ruby>喜<rt>よろこ</rt></ruby>ばれるでしょう。その<ruby>時<rt>とき</rt></ruby>あなたの<ruby>祭壇<rt>さいだん</rt></ruby>に<ruby>雄牛<rt>おうし</rt></ruby>がささげられるでしょう。",
+        "ruby_tokens": [
+          {
+            "surface": "時",
+            "reading": "とき"
+          },
+          {
+            "surface": "義",
+            "reading": "ぎ"
+          },
+          {
+            "surface": "燔祭",
+            "reading": "はんさい"
+          },
+          {
+            "surface": "全",
+            "reading": "まった"
+          },
+          {
+            "surface": "燔祭",
+            "reading": "はんさい"
+          },
+          {
+            "surface": "喜",
+            "reading": "よろこ"
+          },
+          {
+            "surface": "時",
+            "reading": "とき"
+          },
+          {
+            "surface": "祭壇",
+            "reading": "さいだん"
+          },
+          {
+            "surface": "雄牛",
+            "reading": "おうし"
+          }
+        ]
+      },
+      "ja_bungo_text": "その時なんぢ義のそなへものと燔祭と全きはんさいとを悦びたまはん かくて人々なんぢの祭壇に牡牛をささぐべし",
+      "original": {
+        "verse_id": "PSA.51.21",
+        "wlc_osis_id": "Ps.51.21",
+        "verse": 21,
+        "text_hebrew": "אָ֤ז תַּחְפֹּ֣ץ זִבְחֵי־צֶ֭דֶק עוֹלָ֣ה וְכָלִ֑יל אָ֤ז יַעֲל֖וּ עַל־מִזְבַּחֲךָ֣ פָרִֽים׃",
+        "tokens": [
+          {
+            "surface": "אָ֤ז",
+            "surface_segmented": "אָ֤ז",
+            "strong": "H227",
+            "prefixes": [],
+            "morph": "HD"
+          },
+          {
+            "surface": "תַּחְפֹּ֣ץ",
+            "surface_segmented": "תַּחְפֹּ֣ץ",
+            "strong": "H2654",
+            "prefixes": [],
+            "morph": "HVqi2ms"
+          },
+          {
+            "surface": "זִבְחֵי",
+            "surface_segmented": "זִבְחֵי",
+            "strong": "H2077",
+            "prefixes": [],
+            "morph": "HNcmpc"
+          },
+          {
+            "surface": "צֶ֭דֶק",
+            "surface_segmented": "צֶ֭דֶק",
+            "strong": "H6664",
+            "prefixes": [],
+            "morph": "HNcmsa"
+          },
+          {
+            "surface": "עוֹלָ֣ה",
+            "surface_segmented": "עוֹלָ֣ה",
+            "strong": "H5930",
+            "prefixes": [],
+            "morph": "HNcfsa"
+          },
+          {
+            "surface": "וְכָלִ֑יל",
+            "surface_segmented": "וְ/כָלִ֑יל",
+            "strong": "H3632",
+            "prefixes": [
+              "c"
+            ],
+            "morph": "HC/Aamsa"
+          },
+          {
+            "surface": "אָ֤ז",
+            "surface_segmented": "אָ֤ז",
+            "strong": "H227",
+            "prefixes": [],
+            "morph": "HD"
+          },
+          {
+            "surface": "יַעֲל֖וּ",
+            "surface_segmented": "יַעֲל֖וּ",
+            "strong": "H5927",
+            "prefixes": [],
+            "morph": "HVhi3mp"
+          },
+          {
+            "surface": "עַל",
+            "surface_segmented": "עַל",
+            "strong": "H5921",
+            "prefixes": [],
+            "morph": "HR"
+          },
+          {
+            "surface": "מִזְבַּחֲךָ֣",
+            "surface_segmented": "מִזְבַּחֲ/ךָ֣",
+            "strong": "H4196",
+            "prefixes": [],
+            "morph": "HNcmsc/Sp2ms"
+          },
+          {
+            "surface": "פָרִֽים",
+            "surface_segmented": "פָרִֽים",
+            "strong": "H6499",
+            "prefixes": [],
+            "morph": "HNcmpa"
+          }
+        ]
+      }
+    }
+  ],
+  "psalm_superscription_hebrew": [
+    {
+      "verse_id": "PSA.51.1",
+      "wlc_osis_id": "Ps.51.1",
+      "verse": 1,
+      "text_hebrew": "לַמְנַצֵּ֗חַ מִזְמ֥וֹר לְדָוִֽד׃",
+      "tokens": [
+        {
+          "surface": "לַמְנַצֵּ֗חַ",
+          "surface_segmented": "לַ/מְנַצֵּ֗חַ",
+          "strong": "H5329",
+          "prefixes": [
+            "l"
+          ],
+          "morph": "HRd/Vprmsa"
+        },
+        {
+          "surface": "מִזְמ֥וֹר",
+          "surface_segmented": "מִזְמ֥וֹר",
+          "strong": "H4210",
+          "prefixes": [],
+          "morph": "HNcmsa"
+        },
+        {
+          "surface": "לְדָוִֽד",
+          "surface_segmented": "לְ/דָוִֽד",
+          "strong": "H1732",
+          "prefixes": [
+            "l"
+          ],
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "verse_id": "PSA.51.2",
+      "wlc_osis_id": "Ps.51.2",
+      "verse": 2,
+      "text_hebrew": "בְּֽבוֹא־אֵ֭לָיו נָתָ֣ן הַנָּבִ֑יא כַּֽאֲשֶׁר־בָּ֝֗א אֶל־בַּת־שָֽׁבַע׃",
+      "tokens": [
+        {
+          "surface": "בְּֽבוֹא",
+          "surface_segmented": "בְּֽ/בוֹא",
+          "strong": "H935",
+          "prefixes": [
+            "b"
+          ],
+          "morph": "HR/Vqc"
+        },
+        {
+          "surface": "אֵ֭לָיו",
+          "surface_segmented": "אֵ֭לָי/ו",
+          "strong": "H413",
+          "prefixes": [],
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "surface": "נָתָ֣ן",
+          "surface_segmented": "נָתָ֣ן",
+          "strong": "H5416",
+          "prefixes": [],
+          "morph": "HNp"
+        },
+        {
+          "surface": "הַנָּבִ֑יא",
+          "surface_segmented": "הַ/נָּבִ֑יא",
+          "strong": "H5030",
+          "prefixes": [
+            "d"
+          ],
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "surface": "כַּֽאֲשֶׁר",
+          "surface_segmented": "כַּֽ/אֲשֶׁר",
+          "strong": "H834",
+          "prefixes": [
+            "k"
+          ],
+          "morph": "HR/Tr"
+        },
+        {
+          "surface": "בָּ֝֗א",
+          "surface_segmented": "בָּ֝֗א",
+          "strong": "H935",
+          "prefixes": [],
+          "morph": "HVqp3ms"
+        },
+        {
+          "surface": "אֶל",
+          "surface_segmented": "אֶל",
+          "strong": "H413",
+          "prefixes": [],
+          "morph": "HR"
+        },
+        {
+          "surface": "בַּת",
+          "surface_segmented": "בַּת",
+          "strong": null,
+          "prefixes": [],
+          "morph": "HNp"
+        },
+        {
+          "surface": "שָֽׁבַע",
+          "surface_segmented": "שָֽׁבַע",
+          "strong": "H1339",
+          "prefixes": [],
+          "morph": "HNp"
+        }
+      ]
+    }
+  ],
+  "psalm_superscription_ja_ruby": "【<ruby>聖歌<rt>せいか</rt></ruby><ruby>隊<rt>たい</rt></ruby>の<ruby>指揮者<rt>しきしゃ</rt></ruby>によってうたわせたダビデの<ruby>歌<rt>うた</rt></ruby>、 これはダビデがバテセバに<ruby>通<rt>とお</rt></ruby>った<ruby>後<rt>のち</rt></ruby><ruby>預言者<rt>よげんしゃ</rt></ruby>ナタンがきたときによんだもの】"
+}

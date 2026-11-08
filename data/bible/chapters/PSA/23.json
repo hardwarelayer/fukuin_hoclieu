@@ -1,0 +1,138 @@
+{
+  "source": "kinhthanh_httlvn",
+  "version": "VI1934",
+  "book_nr": 19,
+  "usfm": "PSA",
+  "httlvn_code": "thi",
+  "book_name_vi": "Thi-thiên",
+  "chapter": 23,
+  "chapter_id": "PSA.23",
+  "audio_url": null,
+  "psalm_superscription": "Thơ Đa-vít làm",
+  "superscription_cross_refs": [],
+  "verse_count": 6,
+  "verses": [
+    {
+      "verse_id": "PSA.23.1",
+      "verse": 1,
+      "text": "Đức Giê-hô-va là Đấng chăn giữ tôi; tôi sẽ chẳng thiếu thốn gì.",
+      "poetic_lines": null,
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [
+        {
+          "type": "section_title",
+          "text": "Đức Giê-hô-va là Đấng chăn giữ tác giả"
+        }
+      ],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "LEXICAL_MATCH_2_OF_3"
+    },
+    {
+      "verse_id": "PSA.23.2",
+      "verse": 2,
+      "text": "Ngài khiến tôi an nghỉ nơi đồng cỏ xanh tươi\nDẫn tôi đến mé nước bình tịnh.",
+      "poetic_lines": [
+        "Ngài khiến tôi an nghỉ nơi đồng cỏ xanh tươi",
+        "Dẫn tôi đến mé nước bình tịnh."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [
+        {
+          "raw": "Exe 34:14",
+          "target_usfm": "EZK",
+          "target_chapter": 34,
+          "target_verses": "14"
+        },
+        {
+          "raw": "Kh 7:17",
+          "target_usfm": "REV",
+          "target_chapter": 7,
+          "target_verses": "17"
+        }
+      ],
+      "textual_footnotes": [],
+      "verification_status": "MAJORITY_HTTLVN_2_OF_3"
+    },
+    {
+      "verse_id": "PSA.23.3",
+      "verse": 3,
+      "text": "Ngài bổ lại linh hồn tôi,\nDẫn tôi vào các lối công bình, vì cớ danh Ngài.",
+      "poetic_lines": [
+        "Ngài bổ lại linh hồn tôi,",
+        "Dẫn tôi vào các lối công bình, vì cớ danh Ngài."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "PSA.23.4",
+      "verse": 4,
+      "text": "Dầu khi tôi đi trong trũng bóng chết,\nTôi sẽ chẳng sợ tai họa nào; vì Chúa ở cùng tôi:\nCây trượng và cây gậy của Chúa an ủi tôi.",
+      "poetic_lines": [
+        "Dầu khi tôi đi trong trũng bóng chết,",
+        "Tôi sẽ chẳng sợ tai họa nào; vì Chúa ở cùng tôi:",
+        "Cây trượng và cây gậy của Chúa an ủi tôi."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "MAJORITY_HTTLVN_2_OF_3"
+    },
+    {
+      "verse_id": "PSA.23.5",
+      "verse": 5,
+      "text": "Chúa dọn bàn cho tôi\nTrước mặt kẻ thù nghịch tôi;\nChúa xức dầu cho đầu tôi,\nChén tôi đầy tràn.",
+      "poetic_lines": [
+        "Chúa dọn bàn cho tôi",
+        "Trước mặt kẻ thù nghịch tôi;",
+        "Chúa xức dầu cho đầu tôi,",
+        "Chén tôi đầy tràn."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "PSA.23.6",
+      "verse": 6,
+      "text": "Quả thật, trọn đời tôi\nPhước hạnh và sự thương xót sẽ theo tôi;\nTôi sẽ ở trong nhà Đức Giê-hô-va\nCho đến lâu dài.",
+      "poetic_lines": [
+        "Quả thật, trọn đời tôi",
+        "Phước hạnh và sự thương xót sẽ theo tôi;",
+        "Tôi sẽ ở trong nhà Đức Giê-hô-va",
+        "Cho đến lâu dài."
+      ],
+      "is_paragraph_start": true,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+# ==============================================================================
+# .gitignore cho kho học liệu `fukuin_hoclieu`
+# Kế thừa triết lý của `RoTK9_hoclieu/.gitignore`:
+# - GIỮ LẠI TRONG GIT:
+#   + Tài liệu kiến trúc (`docs/`, `crawl_factory/sources/docs/`, `README.md`)
+#   + Mã nguồn crawler & công cụ kiểm định (`crawl_factory/core/`, `crawl_factory/sources/`, `tools/`)
+#   + Kho học liệu chuẩn đã chưng cất (`data/`: JSON Kinh Thánh đa ngữ, Thánh Ca, KTĐĐ, `.abc`, `.mid` 4 bè)
+#     để kho `fukuin` đọc trực tiếp mà không cần chạy lại crawler.
+# - BỎ QUA (KHÔNG ĐƯA VÀO GIT):
+#   + Cache HTML/XML thô tải từ mạng (`crawl_factory/raw/`), dữ liệu trung gian (`crawl_factory/normalized/`)
+#     và trạng thái tiến độ máy cục bộ (`crawl_factory/state/`).
+# ==============================================================================
+
+# 1. Cache dữ liệu thô tải từ các nguồn mạng (HTML, MusicXML thô 75KB/bài, v.v.)
+#    Sinh lại bằng: python -X utf8 crawl_factory/run_crawler.py --step 2
+crawl_factory/raw/
+
+# 2. Dữ liệu phân tích trung gian từng nguồn trước khi gộp vào `data/`
+#    Sinh lại bằng: python -X utf8 crawl_factory/run_crawler.py --step 3
+crawl_factory/normalized/
+
+# 3. Trạng thái tiến độ crawl cục bộ & nhật ký chạy máy
+crawl_factory/state/
+crawl_factory/logs/
+
+# 4. Các tệp âm thanh / hình ảnh nhị phân dung lượng lớn (MP3 được stream hoặc lưu trên R2 CDN,
+#    không bao giờ đưa vào lịch sử Git; chỉ giữ lại file ký hiệu siêu nhẹ `.abc` và `.mid` trong `data/`)
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.mp4
+*.zip
+*.tar.gz
+*.7z
+
+# 5. Tệp cấu hình proxy / thông tin nhạy cảm cục bộ (TRAP F5)
+proxies.txt
+.env
+.env.*
+!.env.example
+
+# 6. Tệp tạm thời (`atomic_write_*` sinh `.tmp` trước khi `os.replace`) & cache Python
+*.tmp
+*.bak
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+
+# 7. Tệp rác hệ điều hành
+.DS_Store
+Thumbs.db
+

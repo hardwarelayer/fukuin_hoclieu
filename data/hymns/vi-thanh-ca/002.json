@@ -1,0 +1,44 @@
+{
+  "hymn_id": 2,
+  "code": "TC_002",
+  "slug": "nguyen-tung-my-chua-linh-nang",
+  "title": "Nguyện Tụng Mỹ Chúa Linh Năng",
+  "category_top": "Thờ Phượng",
+  "category_sub": "Ngợi khen Đức Chúa Trời",
+  "composer": "Nhạc điệu Đức,1668",
+  "translator": "Joachim Neander,1680",
+  "meter_code": "B2L",
+  "has_chords": true,
+  "chords_used": [
+    "C",
+    "G"
+  ],
+  "stanza_count": 1,
+  "stanzas": [
+    {
+      "label": "Câu 1",
+      "type": "verse",
+      "lines_clean": [
+        "A-men."
+      ],
+      "lines_chordpro": [
+        "[C]A-[G]men."
+      ]
+    }
+  ],
+  "has_mp3": true,
+  "mp3_url": "https://audio.httlvn.org/TC/thanh-ca/mp3/2.mp3",
+  "has_musicxml": true,
+  "musicxml_rel_path": "musicxml/2.xml",
+  "symbolic_sheet": {
+    "key_signature": "G",
+    "time_signature": "3/4",
+    "tempo_bpm": 104,
+    "measure_count": 23,
+    "abc_notation": "X:2\nT:Nguyện Tụng Mỹ Chúa Linh Năng\nM:3/4\nL:1/8\nQ:1/4=104\nK:G\n\"G\"G2 G2 d2 | \"Em\"B2 \"D7\"A2 \"Em\"G2 | \"Bm\"F2 \"C\"E2 \"G\"D2 | \"C\"E2 F2 G2 | \"D7\"A6 | \"G\"G4 z2 | \"Em\"G2 \"B7\"G2 d2 | \"Em\"B2 A2 G2 | \"A7\"F2 E2 D2 | \"D7\"E2 F2 G2 | A6 | \"G\"G4 z2 | \"Bm\"d2 d2 d2 | \"C\"e6 | \"G\"B2 \"C\"c2 \"D7\"d2 | \"G\"d2 c2 B2 | \"D7\"A6 | \"Bm\"D2 \"C\"E2 \"D7\"F2 | \"G\"G2 \"D7\"A2 \"G\"B2 | \"D7\"A6 | \"G\"G4 z2 | \"C\"G6 | \"G\"G6 |]\nw: 1.Thờ lạy Chúa, Đấng linh năng, Vua vinh diệu tạo vạn vật chúng dân! Nầy hồn hỡi, khá ca khen Ngài, là nguồn lực lượng, sông cứu ân! Tôn vinh danh Chúa, Đồng tâm mãi trỗi khúc kim cầm, Cùng ngợi Ba Ngôi nhân ái chí thâm.\nw: 2.Thờ lạy Chúa, Đấng đang cai trị vạn vật, thật khôn ngoan quảng thông; Ngài dùng cánh chim ưng nâng ngươi, ban điều cao hơn ngươi ước mong; Bao nhiêu nhu yếu Ngài hằng ban cho không diên trì, Lòng Ngài thật ngươi không thể am tri.\nw: 3.Thờ lạy Chúa, Đấng luôn đem muôn sự hiệp lại làm lợi ích ngươi, Từ từ dẫn dắt ngươi, ban sinh lực dồi dào đời ngươi thắm tươi; Trong cơn nguy biến Ngài giơ tay che ngươi mọi chiều, Dường gà mẹ che con khỏi chim diều.\nw: 4.Thờ lạy Chúa, Đấng ban ngươi vô luận địa vị nào may mắn luôn, Hằng ngày cứ điểm trang ngươi do ơn lành từ trời cao đổ tuôn; Khi ngươi suy nghĩ Quyền năng Thánh Chúa cao lạ lùng, Thì lòng ngươi nên vui vẻ vô cùng.\nw: 5.Thờ lạy Chúa, Hỡi cả linh hồn cùng mọi điều chi trong chính ta, Nầy toàn thể chúng sinh mau tung hô thờ phượng danh Giê hô va! Muôn muôn dân thánh Đồng thanh hô, “A men” rập ràng, Thờ lạy Vua muôn vua cách hân hoan. A men.\n",
+    "abc_rel_path": "hymns/abc/002.abc",
+    "midi_rel_path": "hymns/midi/002.mid",
+    "abc_size_bytes": 1814,
+    "midi_size_bytes": 2127
+  }
+}

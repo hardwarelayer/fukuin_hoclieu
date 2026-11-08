@@ -1,0 +1,533 @@
+{
+  "source": "kinhthanh_httlvn",
+  "version": "VI1934",
+  "book_nr": 40,
+  "usfm": "MAT",
+  "httlvn_code": "mat",
+  "book_name_vi": "Ma-thi-ơ",
+  "chapter": 17,
+  "chapter_id": "MAT.17",
+  "audio_url": null,
+  "psalm_superscription": null,
+  "superscription_cross_refs": [],
+  "verse_count": 27,
+  "verses": [
+    {
+      "verse_id": "MAT.17.1",
+      "verse": 1,
+      "text": "Khỏi sáu ngày, Đức Chúa Jêsus đem Phi-e-rơ, Gia-cơ, và Giăng là em Gia-cơ, cùng Ngài đi tẽ lên núi cao.",
+      "poetic_lines": null,
+      "is_paragraph_start": true,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [
+        {
+          "type": "section_scope",
+          "text": "(Mac 9:2-13; Lu 9:28-36)"
+        },
+        {
+          "type": "section_title",
+          "text": "Sự hóa hình"
+        }
+      ],
+      "cross_references": [
+        {
+          "raw": "2Phi 1:17-18",
+          "target_usfm": "2PE",
+          "target_chapter": 1,
+          "target_verses": "17-18"
+        }
+      ],
+      "textual_footnotes": [],
+      "verification_status": "MAJORITY_HTTLVN_2_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.2",
+      "verse": 2,
+      "text": "Ngài biến hóa trước mặt các người ấy, mặt Ngài sáng lòa như mặt trời, áo Ngài trắng như ánh sáng.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "MAJORITY_HTTLVN_2_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.3",
+      "verse": 3,
+      "text": "Nầy, có Môi-se và Ê-li hiện đến, nói chuyện cùng Ngài.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.4",
+      "verse": 4,
+      "text": "Phi-e-rơ bèn cất tiếng thưa cùng Đức Chúa Jêsus rằng: Lạy Chúa, chúng ta ở lại đây thì tốt lắm; ví bằng đẹp ý Chúa, thì tôi sẽ đóng ba trại tại đây, một cái cho Chúa, một cái cho Môi-se và một cái cho Ê-li.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "MAJORITY_HTTLVN_2_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.5",
+      "verse": 5,
+      "text": "Đang khi người còn nói, bỗng chúc có một đám mây sáng rực che phủ những người ở đó; và có tiếng từ trong mây phán rằng: Nầy là Con yêu dấu của ta, đẹp lòng ta mọi đường; hãy nghe lời Con đó!",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [
+        {
+          "raw": "Sa 22:2",
+          "target_usfm": "GEN",
+          "target_chapter": 22,
+          "target_verses": "2"
+        },
+        {
+          "raw": "Phu 18:15",
+          "target_usfm": "DEU",
+          "target_chapter": 18,
+          "target_verses": "15"
+        },
+        {
+          "raw": "Thi 2:7",
+          "target_usfm": "PSA",
+          "target_chapter": 2,
+          "target_verses": "7"
+        },
+        {
+          "raw": "Es 42:1",
+          "target_usfm": "ISA",
+          "target_chapter": 42,
+          "target_verses": "1"
+        },
+        {
+          "raw": "Mat 3:17",
+          "target_usfm": "MAT",
+          "target_chapter": 3,
+          "target_verses": "17"
+        },
+        {
+          "raw": "12:18",
+          "target_usfm": "MAT",
+          "target_chapter": 12,
+          "target_verses": "18"
+        },
+        {
+          "raw": "Mac 1:11",
+          "target_usfm": "MRK",
+          "target_chapter": 1,
+          "target_verses": "11"
+        },
+        {
+          "raw": "Lu 3:22",
+          "target_usfm": "LUK",
+          "target_chapter": 3,
+          "target_verses": "22"
+        }
+      ],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.6",
+      "verse": 6,
+      "text": "Khi môn đồ nghe tiếng ấy, thì té sấp mặt xuống đất, và sợ hãi lắm.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.7",
+      "verse": 7,
+      "text": "Song Đức Chúa Jêsus lại gần, rờ môn đồ mà phán rằng: Hãy đứng dậy, đừng sợ!",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.8",
+      "verse": 8,
+      "text": "Môn đồ bèn ngửa mặt lên, thì chỉ thấy một mình Đức Chúa Jêsus mà thôi.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.9",
+      "verse": 9,
+      "text": "Đang khi Đức Chúa Jêsus và môn đồ ở trên núi xuống, thì Ngài ra lịnh cấm rằng: Sự các ngươi đã thấy chớ thuật lại cùng ai, cho đến khi Con người từ kẻ chết sống lại.",
+      "poetic_lines": null,
+      "is_paragraph_start": true,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.10",
+      "verse": 10,
+      "text": "Môn đồ hỏi Ngài rằng: Vậy thì sao các thầy thông giáo nói rằng Ê-li phải đến trước?",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [
+        {
+          "raw": "Ma 4:5",
+          "target_usfm": "MAL",
+          "target_chapter": 4,
+          "target_verses": "5"
+        }
+      ],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.11",
+      "verse": 11,
+      "text": "Đức Chúa Jêsus đáp rằng: Thật Ê-li phải đến mà sửa lại mọi việc.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.12",
+      "verse": 12,
+      "text": "Nhưng ta phán cùng các ngươi rằng: Ê-li đã đến rồi, và người ta không nhận biết, song họ lại xử với người theo ý muốn mình; Con người phải chịu khốn khổ bởi họ cũng như vậy.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [
+        {
+          "raw": "Mat 11:14",
+          "target_usfm": "MAT",
+          "target_chapter": 11,
+          "target_verses": "14"
+        }
+      ],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.13",
+      "verse": 13,
+      "text": "Môn đồ bèn hiểu rằng Ngài nói đó là nói về Giăng Báp-tít.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.14",
+      "verse": 14,
+      "text": "Khi Đức Chúa Jêsus và môn đồ đã trở lại cũng đoàn dân, thì có một người đến gần, quì trước mặt Ngài,",
+      "poetic_lines": null,
+      "is_paragraph_start": true,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [
+        {
+          "type": "section_scope",
+          "text": "(Mac 9:14-29; Lu 9:37-43a)"
+        },
+        {
+          "type": "section_title",
+          "text": "Chúa chữa bệnh phong điên"
+        }
+      ],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "MAJORITY_HTTLVN_2_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.15",
+      "verse": 15,
+      "text": "mà thưa rằng: Lạy Chúa, xin Chúa thương đến con trai tôi! Vì nó mắc bệnh phong điên, phải chịu đau đớn quá; thường khi té vào lửa, và té xuống nước.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "MAJORITY_HTTLVN_2_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.16",
+      "verse": 16,
+      "text": "Tôi đã đem nó cho môn đồ Chúa, nhưng chữa không được.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.17",
+      "verse": 17,
+      "text": "Đức Chúa Jêsus đáp rằng: Hỡi dòng dõi không tin và gian tà kia, ta sẽ ở với các ngươi cho đến chừng nào? Ta sẽ nhịn nhục các ngươi cho đến khi nào? Hãy đem con đến đây cho ta.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.18",
+      "verse": 18,
+      "text": "Rồi Đức Chúa Jêsus quở trách quỉ, quỉ liền ra khỏi đứa trẻ, và từ giờ đó đứa trẻ được lành.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.19",
+      "verse": 19,
+      "text": "Môn đồ bèn đến gần Đức Chúa Jêsus, mà hỏi riêng rằng: Vì cớ gì chúng tôi không đuổi quỉ ấy được?",
+      "poetic_lines": null,
+      "is_paragraph_start": true,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.20",
+      "verse": 20,
+      "text": "Ngài đáp rằng: Ấy là tại các ngươi ít đức tin: Vì ta nói thật cùng các ngươi, nếu các ngươi có đức tin bằng một hột cải, sẽ khiến núi nầy rằng: Hãy dời đây qua đó, thì nó liền dời qua, và không có sự gì mà các ngươi chẳng làm được.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [
+        {
+          "raw": "Mat 21:21",
+          "target_usfm": "MAT",
+          "target_chapter": 21,
+          "target_verses": "21"
+        },
+        {
+          "raw": "Mac 11:23",
+          "target_usfm": "MRK",
+          "target_chapter": 11,
+          "target_verses": "23"
+        },
+        {
+          "raw": "1Co 13:2",
+          "target_usfm": "1CO",
+          "target_chapter": 13,
+          "target_verses": "2"
+        }
+      ],
+      "textual_footnotes": [
+        "Có mấy bản cũ thêm một câu 21 rằng: Nhưng thứ quỉ nầy nếu không cầu nguyện và không kiêng ăn thì chẳng trừ nó được"
+      ],
+      "verification_status": "MAJORITY_HTTLVN_2_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.21",
+      "verse": 21,
+      "text": "[Nhưng thứ quỉ nầy nếu không cầu nguyện và không kiêng ăn thì chẳng trừ nó được]",
+      "footnote_only_text": "Nhưng thứ quỉ nầy nếu không cầu nguyện và không kiêng ăn thì chẳng trừ nó được",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": true,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [
+        "Có mấy bản cũ thêm một câu 21 rằng: Nhưng thứ quỉ nầy nếu không cầu nguyện và không kiêng ăn thì chẳng trừ nó được"
+      ],
+      "verification_status": "NEEDS_REVIEW_ALL_3_DIFFER"
+    },
+    {
+      "verse_id": "MAT.17.22",
+      "verse": 22,
+      "text": "Đang khi Đức Chúa Jêsus và môn đồ trải qua trong xứ Ga-li-lê, Ngài phán cùng môn đồ rằng: Con người sẽ bị nộp trong tay người ta.",
+      "poetic_lines": null,
+      "is_paragraph_start": true,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [
+        {
+          "type": "section_scope",
+          "text": "(Mac 9:30-32; Lu 9:43b-45)"
+        },
+        {
+          "type": "section_title",
+          "text": "Chúa nói trước về sự Ngài chết và sống lại"
+        }
+      ],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.23",
+      "verse": 23,
+      "text": "Họ sẽ giết Ngài, nhưng đến ngày thứ ba Ngài sẽ sống lại. Các môn đồ bèn lo buồn lắm.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.24",
+      "verse": 24,
+      "text": "Khi đã đến thành Ca-bê-na-um, những người thâu thuế của đền thờ đến hỏi Phi-e-rơ rằng: Thầy ngươi có nộp tiền thuế chăng?",
+      "poetic_lines": null,
+      "is_paragraph_start": true,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [
+        {
+          "type": "section_title",
+          "text": "Đức Chúa Jêsus nộp thuế"
+        }
+      ],
+      "cross_references": [
+        {
+          "raw": "Xu 30:13",
+          "target_usfm": "EXO",
+          "target_chapter": 30,
+          "target_verses": "13"
+        },
+        {
+          "raw": "38:26",
+          "target_usfm": "EXO",
+          "target_chapter": 38,
+          "target_verses": "26"
+        }
+      ],
+      "textual_footnotes": [],
+      "verification_status": "MAJORITY_HTTLVN_2_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.25",
+      "verse": 25,
+      "text": "Phi-e-rơ trả lời rằng: Có. Và khi Phi-e-rơ vào nhà, thì Đức Chúa Jêsus hỏi đón trước rằng: Hỡi Si-môn, ngươi nghĩ sao? Các vua thế gian thâu lương lấy thuế ai? Thâu của con trai mình hay là của người ngoài?",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "MAJORITY_HTTLVN_2_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.26",
+      "verse": 26,
+      "text": "Phi-e-rơ thưa rằng: Người ngoài. Ngài phán rằng: Vậy thì các con trai được miễn thuế!",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": false,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "MAJORITY_HTTLVN_2_OF_3"
+    },
+    {
+      "verse_id": "MAT.17.27",
+      "verse": 27,
+      "text": "Song le, để chúng ta khỏi làm gương xấu cho họ, thì ngươi hãy ra biển câu cá, bắt lấy con cá nào dính câu trước hết, banh miệng nó ra, sẽ thấy một đồng bạc ở trong. Hãy lấy đồng bạc đó, và đem nộp thuế cho ta với ngươi.",
+      "poetic_lines": null,
+      "is_paragraph_start": false,
+      "is_paragraph_end": true,
+      "is_stanza_break": false,
+      "is_omitted_in_critical_text": false,
+      "section_headings": [],
+      "cross_references": [],
+      "textual_footnotes": [],
+      "verification_status": "UNANIMOUS_3_OF_3"
+    }
+  ]
+}
